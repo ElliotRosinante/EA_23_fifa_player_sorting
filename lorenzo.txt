@@ -1,0 +1,4256 @@
+teams and their fastest players who have sprint speed and acceleration over 90.
+
+Real Madrid CF  | no. of unique players 2
+Vinícius José de Oliveira Júnior Real Madrid CF Left Wing (LW)
+ Sprint Speed: 95  | Acceleration: 95  |
+Ferland Mendy Real Madrid CF Left Back (LB)
+ Sprint Speed: 92  | Acceleration: 91  |
+
+FC Bayern München  | no. of unique players 3
+Sadio Mané FC Bayern München Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 91  |
+Kingsley Coman FC Bayern München Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 94  | 
+Alphonso Davies FC Bayern München Left Midfielder (LM)
+ Sprint Speed: 93  | Acceleration: 96  |
+
+Paris Saint-Germain  | no. of unique players 2
+Kylian Mbappé Paris Saint-Germain Striker (ST)
+ Sprint Speed: 97  | Acceleration: 97  |
+Achraf Hakimi Paris Saint-Germain Right Back (RB)
+ Sprint Speed: 93  | Acceleration: 91  |
+
+Liverpool  | no. of unique players 1
+Luis Díaz Liverpool Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 92  |
+
+FC Barcelona  | no. of unique players 2
+Ousmane Dembélé FC Barcelona Left Midfielder (LM)
+ Sprint Speed: 93  | Acceleration: 94  |
+Raphael Dias Belloli FC Barcelona Left Midfielder (LM)
+ Sprint Speed: 91  | Acceleration: 90  |
+
+Manchester United  | no. of unique players 1
+Antony Matheus dos Santos Manchester United Left Midfielder (LM)
+ Sprint Speed: 91  | Acceleration: 95  | 
+
+Juventus  | no. of unique players 1
+Federico Chiesa Juventus Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 91  |
+
+Borussia Dortmund  | no. of unique players 1
+Karim Adeyemi Borussia Dortmund Striker (ST)
+ Sprint Speed: 92  | Acceleration: 94  |
+
+AC Milan  | no. of unique players 2
+Theo Hernández AC Milan Left Wing Back (LWB)
+ Sprint Speed: 94  | Acceleration: 92  |
+Rafael da Conceição Leão AC Milan Left Wing (LW)
+ Sprint Speed: 92  | Acceleration: 90  |
+
+Napoli  | no. of unique players 1
+Hirving Lozano Napoli Right Wing (RW)
+ Sprint Speed: 93  | Acceleration: 92  |
+
+Roma  | no. of unique players 1
+Leonardo Spinazzola Roma Left Wing Back (LWB)
+ Sprint Speed: 90  | Acceleration: 93  |
+
+SL Benfica  | no. of unique players 2
+Rafael A. Ferreira Silva SL Benfica Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 92  |
+Alexander Bah SL Benfica Right Back (RB)
+ Sprint Speed: 93  | Acceleration: 90  |
+
+Bayer 04 Leverkusen  | no. of unique players 2
+Moussa Diaby Bayer 04 Leverkusen Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 95  |
+Jeremie Frimpong Bayer 04 Leverkusen Right Midfielder (RM)
+ Sprint Speed: 93  | Acceleration: 96  |
+
+Athletic Club de Bilbao  | no. of unique players 2
+Iñaki Williams Arthuer Athletic Club de Bilbao Striker (ST)
+ Sprint Speed: 94  | Acceleration: 93  |
+Nicholas Williams Arthuer Athletic Club de Bilbao Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 90  |
+
+Newcastle United  | no. of unique players 1
+Allan Saint-Maximin Newcastle United Center Attacking Midfielder (CAM)
+ Sprint Speed: 90  | Acceleration: 91  |
+
+Lazio  | no. of unique players 1
+Manuel Lazzari Lazio Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 93  |
+
+Aston Villa  | no. of unique players 1
+Leon Bailey Aston Villa Center Attacking Midfielder (CAM)
+ Sprint Speed: 92  | Acceleration: 93  |
+
+FC Porto  | no. of unique players 2
+Wenderson Nascimento Galeno FC Porto Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 91  |
+Zaidu Sanusi FC Porto Left Back (LB)
+ Sprint Speed: 93  | Acceleration: 92  | 
+
+Sporting CP  | no. of unique players 1
+Jeremiah St. Juste Sporting CP Right Back (RB)
+ Sprint Speed: 96  | Acceleration: 90  | 
+
+Eintracht Frankfurt  | no. of unique players 1
+Aurélio Gabriel Ulineia Buta Eintracht Frankfurt Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 94  |
+
+Wolverhampton Wanderers  | no. of unique players 1
+Adama Traoré Diarra Wolverhampton Wanderers Right Wing (RW)
+ Sprint Speed: 96  | Acceleration: 96  |
+
+AS Monaco  | no. of unique players 1
+Krépin Diatta AS Monaco Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 90  |
+
+Ajax  | no. of unique players 1
+Jorge Sánchez Ajax Right Back (RB)
+ Sprint Speed: 92  | Acceleration: 91  |
+
+Stade Rennais FC  | no. of unique players 1
+Kamaldeen Sulemana Stade Rennais FC Right Midfielder (RM)
+ Sprint Speed: 93  | Acceleration: 92  |
+
+Fulham  | no. of unique players 1
+Daniel James Fulham Right Midfielder (RM)
+ Sprint Speed: 95  | Acceleration: 96  |
+
+Rayo Vallecano  | no. of unique players 1
+Álvaro García Rivera Rayo Vallecano Left Midfielder (LM)
+ Sprint Speed: 91  | Acceleration: 92  |
+
+Sport-Club Freiburg  | no. of unique players 1
+Kevin Schade Sport-Club Freiburg Right Wing (RW)
+ Sprint Speed: 94  | Acceleration: 93  |
+
+PSV  | no. of unique players 1
+Yorbe Vertessen PSV Right Midfielder (RM)
+ Sprint Speed: 93  | Acceleration: 94  |
+
+Crystal Palace  | no. of unique players 1
+Wilfried Zaha Crystal Palace Left Wing (LW)
+ Sprint Speed: 91  | Acceleration: 90  | 
+
+Fenerbahçe SK  | no. of unique players 1
+Bright Osayi-Samuel Fenerbahçe SK Right Midfielder (RM)
+ Sprint Speed: 94  | Acceleration: 93  |
+
+Flamengo  | no. of unique players 2
+Wellingt. Edson Sabrão Rolim Flamengo Right Back (RB)
+ Sprint Speed: 90  | Acceleration: 94  |
+
+Douglas Arthur Carvalheira Peixoto Flamengo Left Back (LB)
+ Sprint Speed: 90  | Acceleration: 90  |
+
+SC Braga  | no. of unique players 1
+Álvaro Djaló Dias Fernandes SC Braga Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 91  |
+
+LOSC Lille  | no. of unique players 1
+Alan Virginius LOSC Lille Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+
+Racing Club de Lens  | no. of unique players 3
+Przemysław Frankowski Racing Club de Lens Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 93  |
+Loïs Openda Racing Club de Lens Striker (ST)
+ Sprint Speed: 93  | Acceleration: 94  |
+Loïs Openda Racing Club de Lens Striker (ST)
+ Sprint Speed: 93  | Acceleration: 94  |
+Udinese Calcio  | no. of unique players 1
+Gerard Deulofeu Lázaro Udinese Calcio Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 90  |
+
+Boca Juniors  | no. of unique players 2
+Sebastián Villa Boca Juniors Right Midfielder (RM)
+ Sprint Speed: 94  | Acceleration: 93  |
+Luis Advíncula Boca Juniors Right Back (RB)
+ Sprint Speed: 91  | Acceleration: 91  |
+
+Beşiktaş JK  | no. of unique players 1
+Georges-Kévin Nkoudou Mbida Beşiktaş JK Left Midfielder (LM)
+ Sprint Speed: 91  | Acceleration: 91  |
+
+Club Brugge KV  | no. of unique players 1
+Tajon Buchanan Club Brugge KV Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 93  |
+
+1. FC Union Berlin  | no. of unique players 1
+Sheraldo Becker 1. FC Union Berlin Striker (ST)
+ Sprint Speed: 95  | Acceleration: 94  |
+
+RB Bragantino  | no. of unique players 1
+Adryan Juliano Zonta Torres RB Bragantino Left Wing Back (LWB)
+ Sprint Speed: 93  | Acceleration: 92  |
+
+Montpellier Hérault SC  | no. of unique players 1
+Falaye Sacko Montpellier Hérault SC Right Back (RB)
+ Sprint Speed: 93  | Acceleration: 91  |
+
+Celtic  | no. of unique players 1
+Daizen Maeda Celtic Striker (ST)
+ Sprint Speed: 90  | Acceleration: 92  |
+AZ Alkmaar  | no. of unique players 1
+Ernest Poku AZ Alkmaar Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 91  |
+Rangers FC  | no. of unique players 3
+Ryan Kent Rangers FC Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 90  |
+Rabbi Matondo Rangers FC Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 94  |
+Fashion Sakala Rangers FC Striker (ST)
+ Sprint Speed: 90  | Acceleration: 90  |
+Watford  | no. of unique players 1
+Ismaïla Sarr Watford Right Midfielder (RM)
+ Sprint Speed: 94  | Acceleration: 94  |
+São Paulo  | no. of unique players 1
+Igor Paolo Madinha Eustáquio São Paulo Right Midfielder (RM)
+ Sprint Speed: 94  | Acceleration: 94  |
+VfL Bochum 1848  | no. of unique players 1
+Gerrit Holtmann VfL Bochum 1848 Left Wing (LW)
+ Sprint Speed: 95  | Acceleration: 93  |
+Panathinaikos FC  | no. of unique players 1
+Sebastián Palacios Panathinaikos FC Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 90  |
+FC Red Bull Salzburg  | no. of unique players 2
+Noah Okafor FC Red Bull Salzburg Right Midfielder (RM)
+ Sprint Speed: 93  | Acceleration: 93  |
+Sekou Koita FC Red Bull Salzburg Striker (ST)
+ Sprint Speed: 92  | Acceleration: 92  |
+Unión Deportiva Las Palmas  | no. of unique players 1
+Francisco Jesús Crespo García Unión Deportiva Las Palmas Left Wing (LW)
+ Sprint Speed: 92  | Acceleration: 91  |
+Vélez Sarsfield  | no. of unique players 1
+Luca Orellano Vélez Sarsfield Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 91  |
+West Bromwich Albion  | no. of unique players 1
+Brandon Thomas-Asante West Bromwich Albion Striker (ST)
+ Sprint Speed: 91  | Acceleration: 91  |
+Genoa  | no. of unique players 1
+Kelvin Yeboah Genoa Striker (ST)
+ Sprint Speed: 92  | Acceleration: 91  |
+Stade de Reims  | no. of unique players 1
+Yaya Dukuly Stade de Reims Left Midfielder (LM)
+ Sprint Speed: 93  | Acceleration: 91  |
+Adana Demirspor  | no. of unique players 2
+Henry Onyekuru Adana Demirspor Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 92  |
+Babajide David Akintola Adana Demirspor Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 91  |
+BSC Young Boys  | no. of unique players 2
+Nicolas Moumi Ngamaleu BSC Young Boys Left Midfielder (LM)
+ Sprint Speed: 92  | Acceleration: 90  |
+Meschack Elia BSC Young Boys Striker (ST)
+ Sprint Speed: 92  | Acceleration: 90  |
+Al Shabab  | no. of unique players 1
+Fawaz Al Sagour Al Shabab Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 90  |
+Club Libertad  | no. of unique players 1
+Camilo Mayada Club Libertad Right Back (RB)
+ Sprint Speed: 90  | Acceleration: 91  |
+Atlético Nacional  | no. of unique players 1
+Álvaro Angulo Atlético Nacional Left Wing Back (LWB)
+ Sprint Speed: 91  | Acceleration: 93  |
+İttifak Holding Konyaspor  | no. of unique players 1
+Konrad Michalak İttifak Holding Konyaspor Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 92  |
+Millwall  | no. of unique players 1
+Isaac Olaofe Millwall Striker (ST)
+ Sprint Speed: 91  | Acceleration: 90  |
+Ulsan Hyundai FC  | no. of unique players 1
+Won Sang Um Ulsan Hyundai FC Right Wing (RW)
+ Sprint Speed: 93  | Acceleration: 92  |
+América de Cali  | no. of unique players 2
+Cristian Arrieta América de Cali Right Wing Back (RWB)
+ Sprint Speed: 90  | Acceleration: 90  |
+Déinner Quiñones América de Cali Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 91  |
+Casa Pia  | no. of unique players 1
+Saviour Godwin Casa Pia Left Wing (LW)
+ Sprint Speed: 91  | Acceleration: 90  |
+Heart of Midlothian  | no. of unique players 1
+Josh Ginnelly Heart of Midlothian Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 92  |
+LASK Linz  | no. of unique players 1
+Husein Balić LASK Linz Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Portland Timbers  | no. of unique players 1
+Yimmi Chará Portland Timbers Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 92  |
+Clermont Foot 63  | no. of unique players 1
+Jérémie Bela Clermont Foot 63 Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 90  | 
+Parma  | no. of unique players 1
+Jayden Oosterwolde Parma Left Back (LB)
+ Sprint Speed: 90  | Acceleration: 90  |
+Rio Ave FC  | no. of unique players 2
+Emmanuel Boateng Rio Ave FC Striker (ST)
+ Sprint Speed: 91  | Acceleration: 92  |
+Hernâni Jorge Santos Fortes Rio Ave FC Left Wing (LW)
+ Sprint Speed: 91  | Acceleration: 91  |
+Yukatel Kayserispor  | no. of unique players 1
+Carlos Manuel Cardoso Mané Yukatel Kayserispor Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 90  |
+FK Bodø/Glimt  | no. of unique players 1
+Brice Wembangomo FK Bodø/Glimt Left Back (LB)
+ Sprint Speed: 90  | Acceleration: 91  | 
+New England Revolution  | no. of unique players 1
+Emmanuel Boateng New England Revolution Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Orlando City Soccer Club  | no. of unique players 1
+Ruan Gregório Teixeira Orlando City Soccer Club Right Back (RB)
+ Sprint Speed: 94  | Acceleration: 91  |
+Jeonbuk Hyundai Motors  | no. of unique players 2
+Modou Barrow Jeonbuk Hyundai Motors Left Midfielder (LM)
+ Sprint Speed: 91  | Acceleration: 93  |
+Seon Min Moon Jeonbuk Hyundai Motors Right Wing (RW)
+ Sprint Speed: 92  | Acceleration: 90  |
+New York Red Bulls  | no. of unique players 2
+Elias Manoel New York Red Bulls Striker (ST)
+ Sprint Speed: 90  | Acceleration: 92  |
+Serge Ngoma New York Red Bulls Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Birmingham City  | no. of unique players 1
+Jonathan Leko Birmingham City Striker (ST)
+ Sprint Speed: 90  | Acceleration: 90  | 
+FC Sochaux-Montbéliard  | no. of unique players 1
+Aldo Kalulu FC Sochaux-Montbéliard Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 91  |
+Karlsruher SC  | no. of unique players 1
+Kelvin Arase Karlsruher SC Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 92  |
+SC Paderborn 07  | no. of unique players 1
+Sirlord Conteh SC Paderborn 07 Right Midfielder (RM)
+ Sprint Speed: 96  | Acceleration: 93  |
+SC Heerenveen  | no. of unique players 1
+Milan van Ewijk SC Heerenveen Right Wing Back (RWB)
+ Sprint Speed: 92  | Acceleration: 90  |
+CD Tenerife  | no. of unique players 1
+Arvin Appiah CD Tenerife Left Wing (LW)
+ Sprint Speed: 91  | Acceleration: 92  |
+Real Sporting de Gijón  | no. of unique players 2
+Juan Ferney Otero Real Sporting de Gijón Striker (ST)
+ Sprint Speed: 91  | Acceleration: 90  |
+Pol Valentín Sancho Real Sporting de Gijón Right Wing Back (RWB)
+ Sprint Speed: 91  | Acceleration: 91  |
+SD Huesca  | no. of unique players 2
+Gerard Valentín Sancho SD Huesca Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 92  |
+Aboubakary Kanté SD Huesca Striker (ST)
+ Sprint Speed: 91  | Acceleration: 90  |
+FC Girondins de Bordeaux  | no. of unique players 2
+Alberth Elis FC Girondins de Bordeaux Striker (ST)
+ Sprint Speed: 92  | Acceleration: 90  |
+Alberth Elis FC Girondins de Bordeaux Striker (ST)
+ Sprint Speed: 92  | Acceleration: 90  |
+Charlotte FC  | no. of unique players 1
+Kamil Jóźwiak Charlotte FC Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Columbus Crew  | no. of unique players 1
+Yaw Yeboah Columbus Crew Center Attacking Midfielder (CAM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Molde FK  | no. of unique players 2
+David Datro Fofana Molde FK Striker (ST)
+ Sprint Speed: 90  | Acceleration: 90  |
+Mathis Bolly Molde FK Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 90  |
+Raków Częstochowa  | no. of unique players 2
+Patryk Kun Raków Częstochowa Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 92  |
+Mateusz Wdowiak Raków Częstochowa Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 91  |
+Club Atlético Banfield  | no. of unique players 2
+Mauricio Cuero Club Atlético Banfield Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Maximiliano Cuadra Club Atlético Banfield Center Attacking Midfielder (CAM)
+ Sprint Speed: 90  | Acceleration: 90  |
+C.D. Universidad Católica del Ecuador  | no. of unique players 2
+Arón Rodríguez C.D. Universidad Católica del Ecuador Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+José Carabalí C.D. Universidad Católica del Ecuador Left Midfielder (LM)
+ Sprint Speed: 92  | Acceleration: 90  |
+Club de Foot Montréal  | no. of unique players 1
+Zachary Brault-Guillard Club de Foot Montréal Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Legia Warszawa  | no. of unique players 1
+Makana Baku Legia Warszawa Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 91  |
+FC Zürich  | no. of unique players 1
+Aiyegun Tosin FC Zürich Striker (ST)
+ Sprint Speed: 93  | Acceleration: 92  |
+Blackpool  | no. of unique players 1
+CJ Hamilton Blackpool Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 92  |
+KV Oostende  | no. of unique players 1
+David Atanga KV Oostende Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 92  | 
+Wuhan Three Towns  | no. of unique players 1
+Ademilson Braga Bispo Júnior Wuhan Three Towns Right Wing (RW)
+ Sprint Speed: 93  | Acceleration: 90  |
+BK Häcken  | no. of unique players 1
+Ibrahim Sadiq BK Häcken Left Wing (LW)
+ Sprint Speed: 90  | Acceleration: 90  |
+Eintracht Braunschweig  | no. of unique players 1
+Jan Hendrik Marx Eintracht Braunschweig Right Back (RB)
+ Sprint Speed: 90  | Acceleration: 91  |
+FC Lugano  | no. of unique players 1
+Allan Arigoni FC Lugano Right Back (RB)
+ Sprint Speed: 90  | Acceleration: 91  |
+FC Nordsjælland  | no. of unique players 1
+Lasso Coulibaly FC Nordsjælland Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Rotherham United  | no. of unique players 2
+Chiedozie Ogbene Rotherham United Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 92  |
+Cohen Bramall Rotherham United Left Midfielder (LM)
+ Sprint Speed: 92  | Acceleration: 92  |
+Derby County  | no. of unique players 1
+Tom Barkhuizen Derby County Left Midfielder (LM)
+ Sprint Speed: 93  | Acceleration: 92  |
+Ipswich Town  | no. of unique players 2
+Wes Burns Ipswich Town Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 91  |
+Kayden Jackson Ipswich Town Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 90  |
+Club The Strongest  | no. of unique players 1
+Gabriel Esparza Club The Strongest Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 91  |
+SC Cambuur  | no. of unique players 1
+Alex Bangura SC Cambuur Left Wing Back (LWB)
+ Sprint Speed: 94  | Acceleration: 93  |
+Jeju United FC  | no. of unique players 1
+Gerso Fernandes Jeju United FC Left Wing (LW)
+ Sprint Speed: 91  | Acceleration: 92  |
+Hibernian  | no. of unique players 2
+Martin Boyle Hibernian Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 93  |
+Harry McKirdy Hibernian Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 92  | 
+Nîmes Olympique  | no. of unique players 1
+Moussa Koné Nîmes Olympique Striker (ST)
+ Sprint Speed: 92  | Acceleration: 92  |
+Peterborough United  | no. of unique players 2
+David Ajiboye Peterborough United Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 91  |
+Ricky-Jade Jones Peterborough United Striker (ST)
+ Sprint Speed: 91  | Acceleration: 92  |
+RKC Waalwijk  | no. of unique players 1
+Florian Jozefzoon RKC Waalwijk Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 90  |
+Deportivo Cali  | no. of unique players 1
+Yony González Deportivo Cali Striker (ST)
+ Sprint Speed: 93  | Acceleration: 94  |
+Club Deportes Tolima  | no. of unique players 1
+Andrés Ibargüen Club Deportes Tolima Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 92  |
+SG Dynamo Dresden  | no. of unique players 1
+Christian Conteh SG Dynamo Dresden Right Midfielder (RM)
+ Sprint Speed: 93  | Acceleration: 94  |
+Charlton Athletic  | no. of unique players 2
+Corey Blackett-Taylor Charlton Athletic Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 91  |
+Diallang Jaiyesimi Charlton Athletic Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Sepsi OSK Sf. Gheorghe  | no. of unique players 2
+Cristi Bărbuț Sepsi OSK Sf. Gheorghe Right Wing (RW)
+ Sprint Speed: 93  | Acceleration: 92  |
+Cătălin Golofca Sepsi OSK Sf. Gheorghe Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 90  |
+Grenoble Foot 38  | no. of unique players 1
+Achille Anani Grenoble Foot 38 Striker (ST)
+ Sprint Speed: 90  | Acceleration: 90  |
+Shanghai Shenhua FC  | no. of unique players 1
+Christian Bassogog Shanghai Shenhua FC Striker (ST)
+ Sprint Speed: 90  | Acceleration: 91  |
+Odense Boldklub  | no. of unique players 1
+Emmanuel Sabbi Odense Boldklub Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 90  |
+Viktoria Köln  | no. of unique players 1
+Simon Stehle Viktoria Köln Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 92  |
+Beijing Guoan FC  | no. of unique players 1
+Samuel Adegbenro Beijing Guoan FC Striker (ST)
+ Sprint Speed: 90  | Acceleration: 91  |
+Shenzhen FC  | no. of unique players 1
+Frank Acheampong Shenzhen FC Left Midfielder (LM)
+ Sprint Speed: 94  | Acceleration: 92  |
+Al Adalah  | no. of unique players 1
+Abdulaziz Al Jamaan Al Adalah Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 90  |
+Lincoln City  | no. of unique players 1
+Charles Vernam Lincoln City Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 90  |
+Bristol Rovers  | no. of unique players 1
+Harvey Saunders Bristol Rovers Striker (ST)
+ Sprint Speed: 90  | Acceleration: 91  |
+St. Johnstone FC  | no. of unique players 1
+Michael O’Halloran St. Johnstone FC Right Wing (RW)
+ Sprint Speed: 90  | Acceleration: 90  |
+Perth Glory  | no. of unique players 1
+Matt Hatch Perth Glory Left Midfielder (LM)
+ Sprint Speed: 92  | Acceleration: 93  |
+Newcastle Jets  | no. of unique players 1
+Trent Buhagiar Newcastle Jets Right Midfielder (RM)
+ Sprint Speed: 90  | Acceleration: 92  | 
+Borussia Dortmund II  | no. of unique players 1
+Justin Njinmah Borussia Dortmund II Center Attacking Midfielder (CAM)
+ Sprint Speed: 91  | Acceleration: 92  |
+Morecambe  | no. of unique players 1
+Dylan Connolly Morecambe Right Wing (RW)
+ Sprint Speed: 91  | Acceleration: 91  |
+Stevenage  | no. of unique players 1
+Elliott List Stevenage Striker (ST)
+ Sprint Speed: 92  | Acceleration: 94  |
+Bradford City  | no. of unique players 1
+Abo Eisa Bradford City Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 92  |
+Brisbane Roar  | no. of unique players 1
+Nikola Mileusnić Brisbane Roar Left Midfielder (LM)
+ Sprint Speed: 91  | Acceleration: 90  |
+Degerfors IF  | no. of unique players 1
+Joseph-Claude Gyau Degerfors IF Left Wing Back (LWB)
+ Sprint Speed: 92  | Acceleration: 90  |
+Swindon Town  | no. of unique players 1
+Mohammad Dabre Swindon Town Left Midfielder (LM)
+ Sprint Speed: 90  | Acceleration: 92  |
+Guangzhou City  | no. of unique players 1
+Guilherme Costa Marques Guangzhou City Right Midfielder (RM)
+ Sprint Speed: 91  | Acceleration: 90  |
+Seongnam FC  | no. of unique players 1
+Manuel Palacios Seongnam FC Right Midfielder (RM)
+ Sprint Speed: 92  | Acceleration: 91  |
+
+ really good defenders 
+Rúben Santos Gato Alves Dias Manchester City Center Back (CB)
+ Sliding Tackle: 85  | Standing Tackle: 89  | Strength: 89  | Aggression: 92  | 
+Aymeric Laporte Manchester City Center Back (CB)
+ Sliding Tackle: 86  | Standing Tackle: 87  | Strength: 84  | Aggression: 81  | 
+Matthijs de Ligt FC Bayern München Center Back (CB)
+ Sliding Tackle: 85  | Standing Tackle: 86  | Strength: 93  | Aggression: 83  |
+Virgil van Dijk Liverpool Center Back (CB)
+ Sliding Tackle: 86  | Standing Tackle: 92  | Strength: 93  | Aggression: 85  |
+Fábio Henrique Tavares Liverpool Center Defensive Midfielder (CDM)
+ Sliding Tackle: 86  | Standing Tackle: 88  | Strength: 81  | Aggression: 85  |
+José María Giménez Atlético de Madrid Center Back (CB)
+ Sliding Tackle: 85  | Standing Tackle: 85  | Strength: 86  | Aggression: 88  | 
+Kalidou Koulibaly Chelsea Center Back (CB)
+ Sliding Tackle: 86  | Standing Tackle: 89  | Strength: 94  | Aggression: 83  |
+Carlos Henrique Venancio Casimiro Manchester United Center Defensive Midfielder (CDM)
+ Sliding Tackle: 87  | Standing Tackle: 88  | Strength: 90  | Aggression: 91  |
+Cristian Romero Tottenham Hotspur Center Back (CB)
+ Sliding Tackle: 85  | Standing Tackle: 86  | Strength: 82  | Aggression: 90  |
+Niklas Süle Borussia Dortmund Center Back (CB)
+ Sliding Tackle: 87  | Standing Tackle: 89  | Strength: 94  | Aggression: 86  |
+Raúl Albiol Tortajada Villarreal CF Center Back (CB)
+ Sliding Tackle: 85  | Standing Tackle: 86  | Strength: 80  | Aggression: 83  |
+
+
+ Teams with the following players 
+    sliding tackle over 85
+    standing tackle over 85
+    strength over 80 
+    aggression over 75
+
+
+ Manchester City  | no. of unique players 2
+Rúben Santos Gato Alves Dias Manchester City Center Back (CB)
+ Standing Tackle: 89  | Sliding Tackle: 85  | Strength: 89  | Aggression: 92  | 
+Aymeric Laporte Manchester City Center Back (CB)
+ Standing Tackle: 87  | Sliding Tackle: 86  | Strength: 84  | Aggression: 81  | 
+
+FC Bayern München  | no. of unique players 1
+Matthijs de Ligt FC Bayern München Center Back (CB)
+ Standing Tackle: 86  | Sliding Tackle: 85  | Strength: 93  | Aggression: 83  |
+
+Liverpool  | no. of unique players 2
+Virgil van Dijk Liverpool Center Back (CB)
+ Standing Tackle: 92  | Sliding Tackle: 86  | Strength: 93  | Aggression: 85  |
+Fábio Henrique Tavares Liverpool Center Defensive Midfielder (CDM)
+ Standing Tackle: 88  | Sliding Tackle: 86  | Strength: 81  | Aggression: 85  |
+
+Atlético de Madrid  | no. of unique players 1
+José María Giménez Atlético de Madrid Center Back (CB)
+ Standing Tackle: 85  | Sliding Tackle: 85  | Strength: 86  | Aggression: 88  |
+
+
+Chelsea  | no. of unique players 1
+Kalidou Koulibaly Chelsea Center Back (CB)
+ Standing Tackle: 89  | Sliding Tackle: 86  | Strength: 94  | Aggression: 83  |
+
+
+Manchester United  | no. of unique players 1
+Carlos Henrique Venancio Casimiro Manchester United Center Defensive Midfielder (CDM)
+ Standing Tackle: 88  | Sliding Tackle: 87  | Strength: 90  | Aggression: 91  |
+
+Tottenham Hotspur  | no. of unique players 1
+Cristian Romero Tottenham Hotspur Center Back (CB)
+ Standing Tackle: 86  | Sliding Tackle: 85  | Strength: 82  | Aggression: 90  |
+
+Borussia Dortmund  | no. of unique players 1
+Niklas Süle Borussia Dortmund Center Back (CB)
+ Standing Tackle: 89  | Sliding Tackle: 87  | Strength: 94  | Aggression: 86  |
+
+Villarreal CF  | no. of unique players 1
+Raúl Albiol Tortajada Villarreal CF Center Back (CB)
+ Standing Tackle: 86  | Sliding Tackle: 85  | Strength: 80  | Aggression: 83  |
+
+ decent dribblers 
+ Manchester City  | no. of unique players 2
+Bernardo Mota Carvalho e Silva Manchester City Center Attacking Midfielder (CAM)
+ Dribbling: 92  | Ball Control: 91  | Agility: 94  | Balance: 92  |
+Riyad Mahrez Manchester City Right Wing (RW)
+ Dribbling: 91  | Ball Control: 90  | Agility: 92  | Balance: 88  |
+Real Madrid CF  | no. of unique players 1
+Vinícius José de Oliveira Júnior Real Madrid CF Left Wing (LW)
+ Dribbling: 92  | Ball Control: 89  | Agility: 94  | Balance: 83  |
+Paris Saint-Germain  | no. of unique players 4
+Kylian Mbappé Paris Saint-Germain Striker (ST)
+ Dribbling: 93  | Ball Control: 91  | Agility: 93  | Balance: 81  |
+Lionel Messi Paris Saint-Germain Center Attacking Midfielder (CAM)
+ Dribbling: 95  | Ball Control: 93  | Agility: 91  | Balance: 95  | 
+Neymar da Silva Santos Jr. Paris Saint-Germain Left Wing (LW)
+ Dribbling: 95  | Ball Control: 94  | Agility: 93  | Balance: 82  |
+Marco Verratti Paris Saint-Germain Center Midfielder (CM)
+ Dribbling: 91  | Ball Control: 92  | Agility: 90  | Balance: 93  |
+Liverpool  | no. of unique players 1
+Thiago Alcântara Liverpool Center Midfielder (CM)
+ Dribbling: 89  | Ball Control: 92  | Agility: 90  | Balance: 90  |
+Chelsea  | no. of unique players 1
+Mateo Kovačić Chelsea Center Midfielder (CM)
+ Dribbling: 89  | Ball Control: 89  | Agility: 86  | Balance: 84  |
+Roma  | no. of unique players 1
+Paulo Dybala Roma Center Attacking Midfielder (CAM)
+ Dribbling: 90  | Ball Control: 93  | Agility: 88  | Balance: 90  |
+Aston Villa  | no. of unique players 1
+Philippe Coutinho Correia Aston Villa Center Attacking Midfielder (CAM)
+ Dribbling: 89  | Ball Control: 89  | Agility: 91  | Balance: 92  |
+Toronto FC  | no. of unique players 1
+Lorenzo Insigne Toronto FC Center Attacking Midfielder (CAM)
+ Dribbling: 90  | Ball Control: 90  | Agility: 90  | Balance: 94  |
+
+ The way these players dribble and pass will give you orgasms.
+ *************
+ Manchester City  | no. of unique players 1
+Bernardo Mota Carvalho e Silva Manchester City Center Attacking Midfielder (CAM)
+ Dribbling: 92  | Ball Control: 91  | Agility: 94  | Balance: 92  | Short Passing: 89  | 
+Paris Saint-Germain  | no. of unique players 4
+Kylian Mbappé Paris Saint-Germain Striker (ST)
+ Dribbling: 93  | Ball Control: 91  | Agility: 93  | Balance: 81  | Short Passing: 85  |
+Lionel Messi Paris Saint-Germain Center Attacking Midfielder (CAM)
+ Dribbling: 95  | Ball Control: 93  | Agility: 91  | Balance: 95  | Short Passing: 91  |
+Neymar da Silva Santos Jr. Paris Saint-Germain Left Wing (LW)
+ Dribbling: 95  | Ball Control: 94  | Agility: 93  | Balance: 82  | Short Passing: 85  |
+Marco Verratti Paris Saint-Germain Center Midfielder (CM)
+ Dribbling: 91  | Ball Control: 92  | Agility: 90  | Balance: 93  | Short Passing: 90  |
+Liverpool  | no. of unique players 1
+Thiago Alcântara Liverpool Center Midfielder (CM)
+ Dribbling: 89  | Ball Control: 92  | Agility: 90  | Balance: 90  | Short Passing: 91  |
+Chelsea  | no. of unique players 1
+Mateo Kovačić Chelsea Center Midfielder (CM)
+ Dribbling: 89  | Ball Control: 89  | Agility: 86  | Balance: 84  | Short Passing: 90  |
+Roma  | no. of unique players 1
+Paulo Dybala Roma Center Attacking Midfielder (CAM)
+ Dribbling: 90  | Ball Control: 93  | Agility: 88  | Balance: 90  | Short Passing: 86  |
+
+
+Grouping players by position.
+Kevin De Bruyne
+Center Midfielder (CM)
+İlkay Gündoğan        
+Center Midfielder (CM)
+Toni Kroos
+Center Midfielder (CM)
+Luka Modrić
+Center Midfielder (CM)
+Federico Valverde
+Center Midfielder (CM)
+Daniel Ceballos Fernández
+Center Midfielder (CM)
+Leon Goretzka
+Center Midfielder (CM)
+Marcel Sabitzer
+Center Midfielder (CM)
+Marco Verratti
+Center Midfielder (CM)
+Carlos Soler Barragán
+Center Midfielder (CM)
+Fabián Ruiz Peña
+Center Midfielder (CM)
+Bernardo Mota Carvalho e Silva
+Center Attacking Midfielder (CAM)
+Phil Foden
+Center Attacking Midfielder (CAM)
+Julián Álvarez
+Center Attacking Midfielder (CAM)
+Sergio Gómez Martín
+Center Attacking Midfielder (CAM)
+Cole Palmer
+Center Attacking Midfielder (CAM)
+Ben Knight
+Center Attacking Midfielder (CAM)
+Alex Robertson
+Center Attacking Midfielder (CAM)
+Sergio Arribas Calvo
+Center Attacking Midfielder (CAM)
+Takuhiro Nakai
+Center Attacking Midfielder (CAM)
+Julen Jon Guerrero Landabaso
+Center Attacking Midfielder (CAM)
+Thomas Müller
+Center Attacking Midfielder (CAM)
+Rodrigo Hernández Cascante
+Center Defensive Midfielder (CDM)
+Kalvin Phillips
+Center Defensive Midfielder (CDM)
+Aurélien Tchouaméni
+Center Defensive Midfielder (CDM)
+Eduardo Camavinga
+Center Defensive Midfielder (CDM)
+Joshua Kimmich
+Center Defensive Midfielder (CDM)
+Danilo Luís Hélio Pereira
+Center Defensive Midfielder (CDM)
+Fábio Henrique Tavares
+Center Defensive Midfielder (CDM)
+James Milner
+Center Defensive Midfielder (CDM)
+Sergio Busquets Burgos
+Center Defensive Midfielder (CDM)
+Franck Yannick Kessié
+Center Defensive Midfielder (CDM)
+Eric García Martret
+Center Defensive Midfielder (CDM)
+Erling Haaland
+Striker (ST)
+Mariano Díaz Mejía
+Striker (ST)
+Iker Bravo Solanilla
+Striker (ST)
+Noel López de la Fuente
+Striker (ST)
+Eric Maxim Choupo-Moting
+Striker (ST)
+Kylian Mbappé
+Striker (ST)
+Hugo Ekitike
+Striker (ST)
+Kenny Nagera
+Striker (ST)
+Diogo José Teixeira da Silva
+Striker (ST)
+Darwin Núñez
+Striker (ST)
+Robert Lewandowski
+Striker (ST)
+Ederson Santana de Moraes
+Goalkeeper (GK)
+Stefan Ortega
+Goalkeeper (GK)
+Scott Carson
+Goalkeeper (GK)
+Thibaut Courtois
+Goalkeeper (GK)
+Andriy Lunin
+Goalkeeper (GK)
+Luis Federico López Andúgar
+Goalkeeper (GK)
+Lucas Cañizares Conchello
+Goalkeeper (GK)
+Manuel Neuer
+Goalkeeper (GK)
+Sven Ulreich
+Goalkeeper (GK)
+Johannes Schenk
+Goalkeeper (GK)
+Gianluigi Donnarumma
+Goalkeeper (GK)
+João Pedro Cavaco Cancelo
+Left Back (LB)
+Joshua Wilson-Esbrand
+Left Back (LB)
+Ferland Mendy
+Left Back (LB)
+Rafael Obrador Burguera
+Left Back (LB)
+Nuno Alexandre Tavares Mendes
+Left Back (LB)
+Juan Bernat Velasco
+Left Back (LB)
+Andrew Robertson
+Left Back (LB)
+Konstantinos Tsimikas
+Left Back (LB)
+James Norris
+Left Back (LB)
+Jordi Alba Ramos
+Left Back (LB)
+Marcos Alonso Mendoza
+Left Back (LB)
+Kyle Walker
+Right Back (RB)
+Rico Lewis
+Right Back (RB)
+Daniel Carvajal Ramos
+Right Back (RB)
+Lucas Vázquez Iglesias
+Right Back (RB)
+Vinícius Tobías da Silva
+Right Back (RB)
+Josip Stanišić
+Right Back (RB)
+Achraf Hakimi
+Right Back (RB)
+Sergio Roberto Carnicer
+Right Back (RB)
+Héctor Bellerín Moruno
+Right Back (RB)
+Daniel Alves da Silva
+Right Back (RB)
+José Diogo Dalot Teixeira
+Right Back (RB)
+Peter González Carmona
+Left Midfielder (LM)
+Sadio Mané
+Left Midfielder (LM)
+Kingsley Coman
+Left Midfielder (LM)
+Alphonso Davies
+Left Midfielder (LM)
+Leroy Sané
+Left Midfielder (LM)
+Ousmane Dembélé
+Left Midfielder (LM)
+Raphael Dias Belloli
+Left Midfielder (LM)
+Alejandro Balde Martínez
+Left Midfielder (LM)
+Yannick Carrasco
+Left Midfielder (LM)
+Juan Castillo
+Left Midfielder (LM)
+Antony Matheus dos Santos
+Left Midfielder (LM)
+Morgan Rogers
+Right Midfielder (RM)
+Rodrygo Silva de Goes
+Right Midfielder (RM)
+Serge Gnabry
+Right Midfielder (RM)
+Noussair Mazraoui
+Right Midfielder (RM)
+Bouna Sarr
+Right Midfielder (RM)
+Timothée Pembélé
+Right Midfielder (RM)
+Luis Díaz
+Right Midfielder (RM)
+Calvin Ramsay
+Right Midfielder (RM)
+Hiroki Abe
+Right Midfielder (RM)
+Fabio Blanco Gómez
+Right Midfielder (RM)
+Mattia Zanotti
+Right Midfielder (RM)
+Karim Benzema
+Center Forward (CF)
+Roberto Firmino Barbosa de Oliveira
+Center Forward (CF)
+Memphis Depay
+Center Forward (CF)
+Ángel Correa
+Center Forward (CF)
+Ruslan Malinovskyi
+Center Forward (CF)
+Wissam Ben Yedder
+Center Forward (CF)
+Dries Mertens
+Center Forward (CF)
+Andrej Kramarić
+Center Forward (CF)
+Maximilian Philipp
+Center Forward (CF)
+João Pedro G. Santos Galvão
+Center Forward (CF)
+Ricardo Jorge da Luz Horta
+Center Forward (CF)
+Rodrigo Hernández Cascante
+Center Defensive Midfielder (CDM)
+Kalvin Phillips
+Center Defensive Midfielder (CDM)
+Aurélien Tchouaméni
+Center Defensive Midfielder (CDM)
+Eduardo Camavinga
+Center Defensive Midfielder (CDM)
+Joshua Kimmich
+Center Defensive Midfielder (CDM)
+Danilo Luís Hélio Pereira
+Center Defensive Midfielder (CDM)
+Fábio Henrique Tavares
+Center Defensive Midfielder (CDM)
+James Milner
+Center Defensive Midfielder (CDM)
+Sergio Busquets Burgos
+Center Defensive Midfielder (CDM)
+Franck Yannick Kessié
+Center Defensive Midfielder (CDM)
+Eric García Martret
+Center Defensive Midfielder (CDM)
+Bernardo Mota Carvalho e Silva
+Center Attacking Midfielder (CAM)
+Phil Foden
+Center Attacking Midfielder (CAM)
+Julián Álvarez
+Center Attacking Midfielder (CAM)
+Sergio Gómez Martín
+Center Attacking Midfielder (CAM)
+Cole Palmer
+Center Attacking Midfielder (CAM)
+Ben Knight
+Center Attacking Midfielder (CAM)
+Alex Robertson
+Center Attacking Midfielder (CAM)
+Sergio Arribas Calvo
+Center Attacking Midfielder (CAM)
+Takuhiro Nakai
+Center Attacking Midfielder (CAM)
+Julen Jon Guerrero Landabaso
+Center Attacking Midfielder (CAM)
+Thomas Müller
+Center Attacking Midfielder (CAM)
+Kevin De Bruyne
+Center Midfielder (CM)
+Bernardo Mota Carvalho e Silva
+Center Attacking Midfielder (CAM)
+Rodrigo Hernández Cascante
+Center Defensive Midfielder (CDM)
+Phil Foden
+Center Attacking Midfielder (CAM)
+İlkay Gündoğan
+Center Midfielder (CM)
+Kalvin Phillips
+Center Defensive Midfielder (CDM)
+Julián Álvarez
+Center Attacking Midfielder (CAM)
+Sergio Gómez Martín
+Center Attacking Midfielder (CAM)
+Cole Palmer
+Center Attacking Midfielder (CAM)
+Morgan Rogers
+Right Midfielder (RM)
+Ben Knight
+Center Attacking Midfielder (CAM)
+Karim Benzema
+Center Forward (CF)
+Roberto Firmino Barbosa de Oliveira
+Center Forward (CF)
+Memphis Depay
+Center Forward (CF)
+Ángel Correa
+Center Forward (CF)
+Ruslan Malinovskyi
+Center Forward (CF)
+Wissam Ben Yedder
+Center Forward (CF)
+Dries Mertens
+Center Forward (CF)
+Andrej Kramarić
+Center Forward (CF)
+Maximilian Philipp
+Center Forward (CF)
+João Pedro G. Santos Galvão
+Center Forward (CF)
+Ricardo Jorge da Luz Horta
+Center Forward (CF)
+Álvaro Odriozola Arzalluz
+Right Wing Back (RWB)
+Denzel Dumfries
+Right Wing Back (RWB)
+Robin Gosens
+Left Wing Back (LWB)
+Matteo Darmian
+Right Wing Back (RWB)
+Federico Dimarco
+Left Wing Back (LWB)
+Raoul Bellanova
+Right Wing Back (RWB)
+Dalbert Chagas Estevão
+Left Wing Back (LWB)
+Sergio Reguilón Rodríguez
+Left Wing Back (LWB)
+Nahuel Molina
+Right Wing Back (RWB)
+Reece James
+Right Wing Back (RWB)
+Ben Chilwell
+Left Wing Back (LWB)
+
+
+positions in my dictionary that aren't necessarily in the players csv files, I am sure they solely depend on the 
+formation that you want to play. 
+
+Left Striker
+Right Striker
+Left Forward
+Right Forward
+Centre Back
+Right Winger
+Left Winger
+Right WingBack
+Left WingBack
+Sweeper
+Wide Forward
+Secondary Striker
+False Striker
+Full Back
+Defender
+Winger
+
+
+Erling Haaland Striker (ST)
+Mariano Díaz Mejía Striker (ST)      
+Iker Bravo Solanilla Striker (ST)    
+Noel López de la Fuente Striker (ST) 
+Eric Maxim Choupo-Moting Striker (ST)
+Kylian Mbappé Striker (ST)
+Hugo Ekitike Striker (ST)
+Kenny Nagera Striker (ST)
+Diogo José Teixeira da Silva Striker (ST)
+Darwin Núñez Striker (ST)
+Jack Grealish Left Wing (LW)
+Vinícius José de Oliveira Júnior Left Wing (LW)
+Eden Hazard Left Wing (LW)
+Neymar da Silva Santos Jr. Left Wing (LW)
+Ferran Torres García Left Wing (LW)
+Raheem Sterling Left Wing (LW)
+Alejandro Garnacho Ferreyra Left Wing (LW)
+Heung Min Son Left Wing (LW)
+Rafael da Conceição Leão Left Wing (LW)
+Stephan El Shaarawy Left Wing (LW)
+Karim Benzema Center Forward (CF)
+Roberto Firmino Barbosa de Oliveira Center Forward (CF)
+Memphis Depay Center Forward (CF)
+Ángel Correa Center Forward (CF)
+Ruslan Malinovskyi Center Forward (CF)
+Wissam Ben Yedder Center Forward (CF)
+Dries Mertens Center Forward (CF)
+Andrej Kramarić Center Forward (CF)
+Maximilian Philipp Center Forward (CF)
+João Pedro G. Santos Galvão Center Forward (CF)
+Riyad Mahrez Right Wing (RW)
+Marco Asensio Willemsen Right Wing (RW)
+Pablo Sarabia García Right Wing (RW)
+Mohamed Salah Right Wing (RW)
+Kaide Gordon Right Wing (RW)
+Joaquín Correa Right Wing (RW)
+Hakim Ziyech Right Wing (RW)
+Anthony Elanga Right Wing (RW)
+Lucas Rodrigues M. Silva Right Wing (RW)
+Ángel Di María Right Wing (RW)
+Bernardo Mota Carvalho e Silva Center Attacking Midfielder (CAM)
+Phil Foden Center Attacking Midfielder (CAM)
+Julián Álvarez Center Attacking Midfielder (CAM)
+Sergio Gómez Martín Center Attacking Midfielder (CAM)
+Cole Palmer Center Attacking Midfielder (CAM)
+Ben Knight Center Attacking Midfielder (CAM)
+Alex Robertson Center Attacking Midfielder (CAM)
+Sergio Arribas Calvo Center Attacking Midfielder (CAM)
+Takuhiro Nakai Center Attacking Midfielder (CAM)
+Julen Jon Guerrero Landabaso Center Attacking Midfielder (CAM)
+Peter González Carmona Left Midfielder (LM)
+Sadio Mané Left Midfielder (LM)
+Kingsley Coman Left Midfielder (LM)
+Alphonso Davies Left Midfielder (LM)
+Leroy Sané Left Midfielder (LM)
+Ousmane Dembélé Left Midfielder (LM)
+Raphael Dias Belloli Left Midfielder (LM)
+Alejandro Balde Martínez Left Midfielder (LM)
+Yannick Carrasco Left Midfielder (LM)
+Juan Castillo Left Midfielder (LM)
+Kevin De Bruyne Center Midfielder (CM)
+İlkay Gündoğan Center Midfielder (CM)
+Toni Kroos Center Midfielder (CM)
+Luka Modrić Center Midfielder (CM)
+Federico Valverde Center Midfielder (CM)
+Daniel Ceballos Fernández Center Midfielder (CM)
+Leon Goretzka Center Midfielder (CM)
+Marcel Sabitzer Center Midfielder (CM)
+Marco Verratti Center Midfielder (CM)
+Carlos Soler Barragán Center Midfielder (CM)
+Morgan Rogers Right Midfielder (RM)
+Rodrygo Silva de Goes Right Midfielder (RM)
+Serge Gnabry Right Midfielder (RM)
+Noussair Mazraoui Right Midfielder (RM)
+Bouna Sarr Right Midfielder (RM)
+Timothée Pembélé Right Midfielder (RM)
+Luis Díaz Right Midfielder (RM)
+Calvin Ramsay Right Midfielder (RM)
+Hiroki Abe Right Midfielder (RM)
+Fabio Blanco Gómez Right Midfielder (RM)
+Robin Gosens Left Wing Back (LWB)
+Federico Dimarco Left Wing Back (LWB)
+Dalbert Chagas Estevão Left Wing Back (LWB)
+Sergio Reguilón Rodríguez Left Wing Back (LWB)
+Ben Chilwell Left Wing Back (LWB)
+Marc Cucurella Saseta Left Wing Back (LWB)
+Dylan Williams Left Wing Back (LWB)
+Tyrell Malacia Left Wing Back (LWB)
+Kieran Tierney Left Wing Back (LWB)
+David Raum Left Wing Back (LWB)
+Rodrigo Hernández Cascante Center Defensive Midfielder (CDM)
+Kalvin Phillips Center Defensive Midfielder (CDM)
+Aurélien Tchouaméni Center Defensive Midfielder (CDM)
+Eduardo Camavinga Center Defensive Midfielder (CDM)
+Joshua Kimmich Center Defensive Midfielder (CDM)
+Danilo Luís Hélio Pereira Center Defensive Midfielder (CDM)
+Fábio Henrique Tavares Center Defensive Midfielder (CDM)
+James Milner Center Defensive Midfielder (CDM)
+Sergio Busquets Burgos Center Defensive Midfielder (CDM)
+Franck Yannick Kessié Center Defensive Midfielder (CDM)
+Álvaro Odriozola Arzalluz Right Wing Back (RWB)
+Denzel Dumfries Right Wing Back (RWB)
+Matteo Darmian Right Wing Back (RWB)
+Raoul Bellanova Right Wing Back (RWB)
+Nahuel Molina Right Wing Back (RWB)
+Reece James Right Wing Back (RWB)
+Brandon Williams Right Wing Back (RWB)
+Emerson Leite De Souza Right Wing Back (RWB)
+Matt Doherty Right Wing Back (RWB)
+Djed Spence Right Wing Back (RWB)
+João Pedro Cavaco Cancelo Left Back (LB)
+Joshua Wilson-Esbrand Left Back (LB)
+Ferland Mendy Left Back (LB)
+Rafael Obrador Burguera Left Back (LB)
+Nuno Alexandre Tavares Mendes Left Back (LB)
+Juan Bernat Velasco Left Back (LB)
+Andrew Robertson Left Back (LB)
+Konstantinos Tsimikas Left Back (LB)
+James Norris Left Back (LB)
+Jordi Alba Ramos Left Back (LB)
+Rúben Santos Gato Alves Dias Center Back (CB)
+Aymeric Laporte Center Back (CB)
+John Stones Center Back (CB)
+Manuel Akanji Center Back (CB)
+Nathan Aké Center Back (CB)
+Antonio Rüdiger Center Back (CB)
+David Alaba Center Back (CB)
+Éder Gabriel Militão Center Back (CB)
+José Ignacio Fernández Iglesias Center Back (CB)
+Jesús Vallejo Lázaro Center Back (CB)
+Kyle Walker Right Back (RB)
+Rico Lewis Right Back (RB)
+Daniel Carvajal Ramos Right Back (RB)
+Lucas Vázquez Iglesias Right Back (RB)
+Vinícius Tobías da Silva Right Back (RB)
+Josip Stanišić Right Back (RB)
+Achraf Hakimi Right Back (RB)
+Sergio Roberto Carnicer Right Back (RB)
+Héctor Bellerín Moruno Right Back (RB)
+Daniel Alves da Silva Right Back (RB)
+
+Erling Haaland English Premier League Manchester City Striker (ST)
+Mariano Díaz Mejía Spain Primera Division Real Madrid CF Striker (ST)
+Iker Bravo Solanilla Spain Primera Division Real Madrid CF Striker (ST)
+Noel López de la Fuente Spain Primera Division Real Madrid CF Striker (ST)
+Eric Maxim Choupo-Moting German 1. Bundesliga FC Bayern München Striker (ST)
+Kylian Mbappé French Ligue 1 Paris Saint-Germain Striker (ST)
+Hugo Ekitike French Ligue 1 Paris Saint-Germain Striker (ST)
+Kenny Nagera French Ligue 1 Paris Saint-Germain Striker (ST)
+Diogo José Teixeira da Silva English Premier League Liverpool Striker (ST)
+Darwin Núñez English Premier League Liverpool Striker (ST)
+Jack Grealish English Premier League Manchester City Left Wing (LW)
+Vinícius José de Oliveira Júnior Spain Primera Division Real Madrid CF Left Wing (LW)   
+Eden Hazard Spain Primera Division Real Madrid CF Left Wing (LW)
+Neymar da Silva Santos Jr. French Ligue 1 Paris Saint-Germain Left Wing (LW)
+Ferran Torres García Spain Primera Division FC Barcelona Left Wing (LW)
+Raheem Sterling English Premier League Chelsea Left Wing (LW)
+Alejandro Garnacho Ferreyra English Premier League Manchester United Left Wing (LW)     
+Heung Min Son English Premier League Tottenham Hotspur Left Wing (LW)
+Rafael da Conceição Leão Italian Serie A AC Milan Left Wing (LW)
+Stephan El Shaarawy Italian Serie A Roma Left Wing (LW)
+Karim Benzema Spain Primera Division Real Madrid CF Center Forward (CF)
+Roberto Firmino Barbosa de Oliveira English Premier League Liverpool Center Forward (CF)
+Memphis Depay Spain Primera Division FC Barcelona Center Forward (CF)
+Ángel Correa Spain Primera Division Atlético de Madrid Center Forward (CF)
+Ruslan Malinovskyi Italian Serie A Atalanta Center Forward (CF)
+Wissam Ben Yedder French Ligue 1 AS Monaco Center Forward (CF)
+Dries Mertens Turkish Süper Lig Galatasaray SK Center Forward (CF)
+Andrej Kramarić German 1. Bundesliga TSG Hoffenheim Center Forward (CF)
+Maximilian Philipp German 1. Bundesliga VfL Wolfsburg Center Forward (CF)
+João Pedro G. Santos Galvão Turkish Süper Lig Fenerbahçe SK Center Forward (CF)
+Riyad Mahrez English Premier League Manchester City Right Wing (RW)
+Marco Asensio Willemsen Spain Primera Division Real Madrid CF Right Wing (RW)
+Pablo Sarabia García French Ligue 1 Paris Saint-Germain Right Wing (RW)
+Mohamed Salah English Premier League Liverpool Right Wing (RW)
+Kaide Gordon English Premier League Liverpool Right Wing (RW)
+Joaquín Correa Italian Serie A Inter Right Wing (RW)
+Hakim Ziyech English Premier League Chelsea Right Wing (RW)
+Anthony Elanga English Premier League Manchester United Right Wing (RW)
+Lucas Rodrigues M. Silva English Premier League Tottenham Hotspur Right Wing (RW)
+Ángel Di María Italian Serie A Juventus Right Wing (RW)
+Bernardo Mota Carvalho e Silva English Premier League Manchester City Center Attacking Midfielder (CAM)
+Phil Foden English Premier League Manchester City Center Attacking Midfielder (CAM)
+Julián Álvarez English Premier League Manchester City Center Attacking Midfielder (CAM)
+Sergio Gómez Martín English Premier League Manchester City Center Attacking Midfielder (CAM)
+Cole Palmer English Premier League Manchester City Center Attacking Midfielder (CAM)
+Ben Knight English Premier League Manchester City Center Attacking Midfielder (CAM)
+Alex Robertson English Premier League Manchester City Center Attacking Midfielder (CAM)
+Sergio Arribas Calvo Spain Primera Division Real Madrid CF Center Attacking Midfielder (CAM)
+Takuhiro Nakai Spain Primera Division Real Madrid CF Center Attacking Midfielder (CAM)
+Julen Jon Guerrero Landabaso Spain Primera Division Real Madrid CF Center Attacking Midfielder (CAM)
+Peter González Carmona Spain Primera Division Real Madrid CF Left Midfielder (LM)
+Sadio Mané German 1. Bundesliga FC Bayern München Left Midfielder (LM)
+Kingsley Coman German 1. Bundesliga FC Bayern München Left Midfielder (LM)
+Alphonso Davies German 1. Bundesliga FC Bayern München Left Midfielder (LM)
+Leroy Sané German 1. Bundesliga FC Bayern München Left Midfielder (LM)
+Ousmane Dembélé Spain Primera Division FC Barcelona Left Midfielder (LM)
+Raphael Dias Belloli Spain Primera Division FC Barcelona Left Midfielder (LM)
+Alejandro Balde Martínez Spain Primera Division FC Barcelona Left Midfielder (LM)
+Yannick Carrasco Spain Primera Division Atlético de Madrid Left Midfielder (LM)
+Juan Castillo English Premier League Chelsea Left Midfielder (LM)
+Kevin De Bruyne English Premier League Manchester City Center Midfielder (CM)
+İlkay Gündoğan English Premier League Manchester City Center Midfielder (CM)
+Toni Kroos Spain Primera Division Real Madrid CF Center Midfielder (CM)
+Luka Modrić Spain Primera Division Real Madrid CF Center Midfielder (CM)
+Federico Valverde Spain Primera Division Real Madrid CF Center Midfielder (CM)
+Daniel Ceballos Fernández Spain Primera Division Real Madrid CF Center Midfielder (CM)
+Leon Goretzka German 1. Bundesliga FC Bayern München Center Midfielder (CM)
+Marcel Sabitzer German 1. Bundesliga FC Bayern München Center Midfielder (CM)
+Marco Verratti French Ligue 1 Paris Saint-Germain Center Midfielder (CM)
+Carlos Soler Barragán French Ligue 1 Paris Saint-Germain Center Midfielder (CM)
+Morgan Rogers English Premier League Manchester City Right Midfielder (RM)
+Rodrygo Silva de Goes Spain Primera Division Real Madrid CF Right Midfielder (RM)
+Serge Gnabry German 1. Bundesliga FC Bayern München Right Midfielder (RM)
+Noussair Mazraoui German 1. Bundesliga FC Bayern München Right Midfielder (RM)
+Bouna Sarr German 1. Bundesliga FC Bayern München Right Midfielder (RM)
+Timothée Pembélé French Ligue 1 Paris Saint-Germain Right Midfielder (RM)
+Luis Díaz English Premier League Liverpool Right Midfielder (RM)
+Calvin Ramsay English Premier League Liverpool Right Midfielder (RM)
+Hiroki Abe Spain Primera Division FC Barcelona Right Midfielder (RM)
+Fabio Blanco Gómez Spain Primera Division FC Barcelona Right Midfielder (RM)
+Robin Gosens Italian Serie A Inter Left Wing Back (LWB)
+Federico Dimarco Italian Serie A Inter Left Wing Back (LWB)
+Dalbert Chagas Estevão Italian Serie A Inter Left Wing Back (LWB)
+Sergio Reguilón Rodríguez Spain Primera Division Atlético de Madrid Left Wing Back (LWB)
+Ben Chilwell English Premier League Chelsea Left Wing Back (LWB)
+Marc Cucurella Saseta English Premier League Chelsea Left Wing Back (LWB)
+Dylan Williams English Premier League Chelsea Left Wing Back (LWB)
+Tyrell Malacia English Premier League Manchester United Left Wing Back (LWB)
+Kieran Tierney English Premier League Arsenal Left Wing Back (LWB)
+David Raum German 1. Bundesliga RB Leipzig Left Wing Back (LWB)
+Rodrigo Hernández Cascante English Premier League Manchester City Center Defensive Midfielder (CDM)
+Kalvin Phillips English Premier League Manchester City Center Defensive Midfielder (CDM)
+Aurélien Tchouaméni Spain Primera Division Real Madrid CF Center Defensive Midfielder (CDM)
+Eduardo Camavinga Spain Primera Division Real Madrid CF Center Defensive Midfielder (CDM)
+Joshua Kimmich German 1. Bundesliga FC Bayern München Center Defensive Midfielder (CDM)
+Danilo Luís Hélio Pereira French Ligue 1 Paris Saint-Germain Center Defensive Midfielder (CDM)
+Fábio Henrique Tavares English Premier League Liverpool Center Defensive Midfielder (CDM)
+James Milner English Premier League Liverpool Center Defensive Midfielder (CDM)
+Sergio Busquets Burgos Spain Primera Division FC Barcelona Center Defensive Midfielder (CDM)
+Franck Yannick Kessié Spain Primera Division FC Barcelona Center Defensive Midfielder (CDM)
+Álvaro Odriozola Arzalluz Spain Primera Division Real Madrid CF Right Wing Back (RWB)
+Denzel Dumfries Italian Serie A Inter Right Wing Back (RWB)
+Matteo Darmian Italian Serie A Inter Right Wing Back (RWB)
+Raoul Bellanova Italian Serie A Inter Right Wing Back (RWB)
+Nahuel Molina Spain Primera Division Atlético de Madrid Right Wing Back (RWB)
+Reece James English Premier League Chelsea Right Wing Back (RWB)
+Brandon Williams English Premier League Manchester United Right Wing Back (RWB)
+Emerson Leite De Souza English Premier League Tottenham Hotspur Right Wing Back (RWB)
+Matt Doherty English Premier League Tottenham Hotspur Right Wing Back (RWB)
+Djed Spence English Premier League Tottenham Hotspur Right Wing Back (RWB)
+João Pedro Cavaco Cancelo English Premier League Manchester City Left Back (LB)
+Joshua Wilson-Esbrand English Premier League Manchester City Left Back (LB)
+Ferland Mendy Spain Primera Division Real Madrid CF Left Back (LB)
+Rafael Obrador Burguera Spain Primera Division Real Madrid CF Left Back (LB)
+Nuno Alexandre Tavares Mendes French Ligue 1 Paris Saint-Germain Left Back (LB)
+Juan Bernat Velasco French Ligue 1 Paris Saint-Germain Left Back (LB)
+Andrew Robertson English Premier League Liverpool Left Back (LB)
+Konstantinos Tsimikas English Premier League Liverpool Left Back (LB)
+James Norris English Premier League Liverpool Left Back (LB)
+Jordi Alba Ramos Spain Primera Division FC Barcelona Left Back (LB)
+Rúben Santos Gato Alves Dias English Premier League Manchester City Center Back (CB)
+Aymeric Laporte English Premier League Manchester City Center Back (CB)
+John Stones English Premier League Manchester City Center Back (CB)
+Manuel Akanji English Premier League Manchester City Center Back (CB)
+Nathan Aké English Premier League Manchester City Center Back (CB)
+Antonio Rüdiger Spain Primera Division Real Madrid CF Center Back (CB)
+David Alaba Spain Primera Division Real Madrid CF Center Back (CB)
+Éder Gabriel Militão Spain Primera Division Real Madrid CF Center Back (CB)
+José Ignacio Fernández Iglesias Spain Primera Division Real Madrid CF Center Back (CB)
+Jesús Vallejo Lázaro Spain Primera Division Real Madrid CF Center Back (CB)
+Kyle Walker English Premier League Manchester City Right Back (RB)
+Rico Lewis English Premier League Manchester City Right Back (RB)
+Daniel Carvajal Ramos Spain Primera Division Real Madrid CF Right Back (RB)
+Lucas Vázquez Iglesias Spain Primera Division Real Madrid CF Right Back (RB)
+Vinícius Tobías da Silva Spain Primera Division Real Madrid CF Right Back (RB)
+Josip Stanišić German 1. Bundesliga FC Bayern München Right Back (RB)
+Achraf Hakimi French Ligue 1 Paris Saint-Germain Right Back (RB)
+Sergio Roberto Carnicer Spain Primera Division FC Barcelona Right Back (RB)
+Héctor Bellerín Moruno Spain Primera Division FC Barcelona Right Back (RB)
+Daniel Alves da Silva Spain Primera Division FC Barcelona Right Back (RB)
+
+Random teams archives.
+
+Jonaldo Kauã Santoso Jasper Campeonato Brasileiro Série A Atlético Clube Goianiense Striker (ST)
+Søren Rieks Swedish Allsvenskan Malmö FF Left Wing (LW)
+Wissam Ben Yedder French Ligue 1 AS Monaco Center Forward (CF)
+Nikola Dovedan Austrian Football Bundesliga FK Austria Wien Right Wing (RW)
+Stefan Nutz Austrian Football Bundesliga SV Ried Center Attacking Midfielder (CAM)
+Arbër Zeneli French Ligue 1 Stade de Reims Left Midfielder (LM)
+Sean Longstaff English Premier League Newcastle United Center Midfielder (CM)
+Denilson Ovando Venezuelan Primera División Caracas Fútbol Club Right Midfielder (RM)
+Jaden Brown English League One Sheffield Wednesday Left Wing Back (LWB)
+Derrick Jones USA Major League Soccer Charlotte FC Center Defensive Midfielder (CDM)
+Ionuț Rădescu Romanian Liga I CS Mioveni Right Wing Back (RWB)
+Cristhian García Ecuadorian Serie A Delfín Sporting Club Left Back (LB)
+Danilo D’Ambrosio Italian Serie A Inter Center Back (CB)
+Ayush Dev Chhetri Indian Super League FC Goa Right Back (RB)
+Lennart Schulze-Kökelsum German 2. Bundesliga Eintracht Braunschweig Goalkeeper (GK)
+
+
+Oli McBurnie English League Championship Sheffield United Striker (ST)
+Soufiane Bidaoui Italian Serie B Ascoli Left Wing (LW)
+Oliver Berg Swedish Allsvenskan Kalmar FF Center Forward (CF)
+Juan Miguel Jiménez López Spain Primera Division Real Betis Balompié Right Wing (RW)
+Christian Norton English League One Cheltenham Town Center Attacking Midfielder (CAM)
+Richard Neudecker German 3. Bundesliga 1. FC Saarbrücken Left Midfielder (LM)
+Tom Cleverley English League Championship Watford Center Midfielder (CM)
+Daniel Håkans Norwegian Eliteserien FK Jerv Right Midfielder (RM)
+Renné Rivas Venezuelan Primera División Caracas Fútbol Club Left Wing Back (LWB)
+Habib Maïga French Ligue 2 FC Metz Center Defensive Midfielder (CDM)
+Callum Guy English League Two Carlisle United Right Wing Back (RWB)
+Jeff Nazario Meire Costinho Campeonato Brasileiro Série A RB Bragantino Left Back (LB)
+Mario Zebić Polish Ekstraklasa Korona Kielce Center Back (CB)
+Mohammed Boudiaf Rep. Ireland Premier Division Drogheda United Right Back (RB)
+Basim Al Baqi Saudi Professional League Al Wehda Goalkeeper (GK)
+
+Leandro Garate Chilean Primera División Unión Española Striker (ST)
+Davide Marsura Italian Serie B Modena Left Wing (LW)
+Wissam Ben Yedder French Ligue 1 AS Monaco Center Forward (CF)
+Jim Allevinah French Ligue 1 Clermont Foot 63 Right Wing (RW)
+Finn Azaz English League One Plymouth Argyle Center Attacking Midfielder (CAM)
+Faitout Maouassa French Ligue 1 Montpellier Hérault SC Left Midfielder (LM)
+Moustapha Name French Ligue 2 Paris FC Center Midfielder (CM)
+Yvandro Borges Sanches German 1. Bundesliga Borussia Mönchengladbach Right Midfielder (RM)
+Andre Reynolds II USA Major League Soccer Chicago Fire Football Club Left Wing Back (LWB)
+Carlos Suárez Venezuelan Primera División Caracas Fútbol Club Center Defensive Midfielder (CDM)
+Dorinel Oancea Romanian Liga I CS Mioveni Right Wing Back (RWB)
+Bruno Martella Italian Serie B Ternana Left Back (LB)
+Mamadou Jobe English League One Cambridge United Center Back (CB)
+Abduhamit Abdugheni Chinese Super League Chengdu Rongcheng F.C. Right Back (RB)
+Henrich Ravas Polish Ekstraklasa Widzew Łódź Goalkeeper (GK)
+
+Isaac Olaofe English League Championship Millwall Striker (ST)
+Alexandru Ișfan Romanian Liga I Campionii FC Arges Left Wing (LW)
+Leonardo Carrilho Baptistão Spain Primera Division Unión Deportiva Almería Center Forward (CF)
+Seung Joon Kim Korean K League 1 Suwon FC Right Wing (RW)
+Marco Terrazzino Polish Ekstraklasa Lechia Gdańsk Center Attacking Midfielder (CAM)
+Felix Müller German 3. Bundesliga SV Elversberg Left Midfielder (LM)
+Maximilian Arnold German 1. Bundesliga VfL Wolfsburg Center Midfielder (CM)
+Cammy MacPherson Scottish Premiership St. Johnstone FC Right Midfielder (RM)
+Marvin Johnson English League One Sheffield Wednesday Left Wing Back (LWB)
+Marco Armellino Italian Serie B Modena Center Defensive Midfielder (CDM)
+Sofiane Alakouch French Ligue 2 FC Metz Right Wing Back (RWB)
+Adrian Ioniță Romanian Liga I AFC Chindia Târgoviște Left Back (LB)
+Marcin Flis Polish Ekstraklasa PGE FKS Stal Mielec Center Back (CB)
+Hector Jimenez USA Major League Soccer Austin FC Right Back (RB)
+Jakub Ojrzyński Polish Ekstraklasa Radomiak Radom Goalkeeper (GK)
+
+Jasse Tuominen Norwegian Eliteserien Tromsø IL Striker (ST)
+Neymar da Silva Santos Jr. French Ligue 1 Paris Saint-Germain Left Wing (LW)
+Gheorghe Grozav Romanian Liga I Petrolul Ploiești Center Forward (CF)
+Yann-Erik de Lanlay Norwegian Eliteserien Viking FK Right Wing (RW)
+Giannis Satsias Cypriot First Division APOEL Nicosia FC Center Attacking Midfielder (CAM)
+Sinan Tekerci German 3. Bundesliga SV Elversberg Left Midfielder (LM)
+Kristijan Bistrović Italian Serie A Lecce Center Midfielder (CM)
+Luke McCormick English League One Bristol Rovers Right Midfielder (RM)
+Happy Mashiane South African Premier Division Kaizer Chiefs Left Wing Back (LWB)
+Bruno Edgar Silva Almeida Indian Super League Bengaluru FC Center Defensive Midfielder (CDM)
+Tariq Lamptey English Premier League Brighton & Hove Albion Right Wing Back (RWB)
+Mansour Al Shammari Saudi Professional League Al Nassr Left Back (LB)
+Andreas Christensen Spain Primera Division FC Barcelona Center Back (CB)
+José Vargas Bolivian Primera División Club Deportivo Jorge Wilstermann Right Back (RB)
+Jonas Omlin French Ligue 1 Montpellier Hérault SC Goalkeeper (GK)
+
+
+Daniel Popa AFC Chindia Târgoviște ST 65
+João Amaral Lech Poznań LW 71
+Karim Benzema Real Madrid CF CF 91
+Adama Traoré Ferencvárosi TC RW 74
+Jordhy Thompson Colo-Colo CAM 59
+Peter Olayinka SK Slavia Praha LM 76
+D. Bojanić Hammarby IF CM 69
+Dylan Teves Seattle Sounders FC RM 55
+Niklas Landgraf Hallescher FC LWB 64
+Harry Pell AFC Wimbledon CDM 64
+Chris Gunter AFC Wimbledon RWB 66
+Kevin Mensah Brøndby IF LB 66
+Leonardo Sigali Racing Club CB 77
+Diego Wayar Club The Strongest RB 69
+Senne Lammens Club Brugge KV GK 64
+
+
+
+Sven Ulreich   |  GK Reflexes : 79
+
+
+
+
+Sadio Mané   |  Striker (ST) : 89
+
+
+
+
+Leon Goretzka   |  Striker (ST) : 87
+
+
+
+
+Sadio Mané   |  Left Wing (LW) : 86
+
+
+
+
+Kingsley Coman   |  Left Wing (LW) : 84
+
+
+
+
+Sadio Mané   |  Left Forward (LF) : 87
+
+
+
+
+Leon Goretzka   |  Left Forward (LF) : 84
+
+
+
+
+Sadio Mané   |  Center Forward (CF) : 87
+
+
+
+
+Leon Goretzka   |  Center Forward (CF) : 84
+
+
+
+
+Sadio Mané   |  Right Forward (RF) : 87
+
+
+
+
+Leon Goretzka   |  Right Forward (RF) : 84
+
+
+
+
+Sadio Mané   |  Right Wing (RW) : 86
+
+
+
+
+Kingsley Coman   |  Right Wing (RW) : 84
+
+
+
+
+Sadio Mané   |  Center Attacking Midfielder (CAM) : 89
+
+
+
+
+Leon Goretzka   |  Center Attacking Midfielder (CAM) : 87
+
+
+
+
+Sadio Mané   |  Left Midfielder (LM) : 89
+
+
+
+
+Kingsley Coman   |  Left Midfielder (LM) : 87
+
+
+
+
+Joshua Kimmich   |  Center Midfielder (CM) : 89
+
+
+
+
+Leon Goretzka   |  Center Midfielder (CM) : 88
+
+
+
+
+Sadio Mané   |  Right Midfielder (RM) : 89
+
+
+
+
+Kingsley Coman   |  Right Midfielder (RM) : 87
+
+
+
+
+Joshua Kimmich   |  Left Wing Back (LWB) : 87
+
+
+
+
+Leon Goretzka   |  Left Wing Back (LWB) : 85
+
+
+
+
+Joshua Kimmich   |  Center Defensive Midfielder (CDM) : 89
+
+
+
+
+Leon Goretzka   |  Center Defensive Midfielder (CDM) : 87
+
+
+
+
+Joshua Kimmich   |  Right Wing Back (RWB) : 87
+
+
+
+
+Leon Goretzka   |  Right Wing Back (RWB) : 85
+
+
+
+
+Joshua Kimmich   |  Left Back (LB) : 86
+
+
+
+
+Leon Goretzka   |  Left Back (LB) : 85
+
+
+
+
+Matthijs de Ligt   |  Center Back (CB) : 87
+
+
+
+
+Leon Goretzka   |  Center Back (CB) : 86
+
+
+
+
+Joshua Kimmich   |  Right Back (RB) : 86
+
+
+
+
+Leon Goretzka   |  Right Back (RB) : 85
+
+
+
+
+Manuel Neuer   |  Goalkeeper (GK) : 90
+
+
+
+
+Sven Ulreich   |  Goalkeeper (GK) : 75
+
+
+
+
+Thomas Müller   |  Attacking Average : 85
+
+
+
+
+Sadio Mané   |  Attacking Average : 81
+
+
+
+
+Thomas Müller   |  Attacking Total : 423
+
+
+
+
+Sadio Mané   |  Attacking Total : 407
+
+
+
+
+Joshua Kimmich   |  Skill Average : 82
+
+
+
+
+Leroy Sané   |  Skill Average : 82
+
+
+
+
+Joshua Kimmich   |  Skill Total : 411
+
+
+
+
+Leroy Sané   |  Skill Total : 408
+
+
+
+
+Sadio Mané   |  Movement Average : 91
+
+
+
+
+Kingsley Coman   |  Movement Average : 89
+
+
+
+
+Sadio Mané   |  Movement Total : 453
+
+
+
+
+Kingsley Coman   |  Movement Total : 446
+
+
+
+
+Leon Goretzka   |  Power Average : 85
+
+
+
+
+Matthijs de Ligt   |  Power Average : 82
+
+
+
+
+Leon Goretzka   |  Power Total : 425
+
+
+
+
+Matthijs de Ligt   |  Power Total : 409
+
+
+
+
+Leon Goretzka   |  Mentality Average : 80
+
+
+
+
+Joshua Kimmich   |  Mentality Average : 78
+
+
+
+
+Leon Goretzka   |  Mentality Total : 479
+
+
+
+
+Joshua Kimmich   |  Mentality Total : 467
+
+
+
+
+Matthijs de Ligt   |  Defending Average : 85
+
+
+
+
+Lucas Hernández   |  Defending Average : 84
+
+
+
+
+Matthijs de Ligt   |  Defending Total : 255
+
+
+
+
+Lucas Hernández   |  Defending Total : 253
+
+
+
+
+Manuel Neuer   |  Goalkeeping Average : 89
+
+
+
+
+Sven Ulreich   |  Goalkeeping Average : 72
+
+
+
+
+Manuel Neuer   |  Goalkeeping Total : 445
+
+
+
+
+Sven Ulreich   |  Goalkeeping Total : 358
+
+
+
+
+Manuel Neuer   |  Base stats : 501
+
+
+
+
+Leon Goretzka   |  Base stats : 492
+
+
+
+
+Leon Goretzka   |  Total Stats : 2312
+
+
+
+
+Joshua Kimmich   |  Total Stats : 2283
+
+PLAYER WHO IS THE BEST AT A SPECIFIC ATTRIBUTE(PSG)
+
+Neymar da Silva Santos Jr.   |  Weak Foot : 5
+
+
+
+
+Kylian Mbappé   |  Weak Foot : 4
+
+
+
+
+Kylian Mbappé   |  Skill moves : 5
+
+
+
+
+Neymar da Silva Santos Jr.   |  Skill moves : 5
+
+
+
+
+Lionel Messi   |  International Reputation : 5
+
+
+
+
+Neymar da Silva Santos Jr.   |  International Reputation : 5
+
+
+
+
+Lionel Messi   |  Crossing : 84
+
+
+
+
+Neymar da Silva Santos Jr.   |  Crossing : 84
+
+
+
+
+Kylian Mbappé   |  Finishing : 93
+
+
+
+
+Lionel Messi   |  Finishing : 90
+
+
+
+
+Marcos Aoás Corrêa   |  Heading Accuracy : 88
+
+
+
+
+Sergio Ramos García   |  Heading Accuracy : 88
+
+
+
+
+Lionel Messi   |  Short Passing : 91
+
+
+
+
+Marco Verratti   |  Short Passing : 90
+
+
+
+
+Lionel Messi   |  Volleys : 88
+
+
+
+
+Neymar da Silva Santos Jr.   |  Volleys : 86
+
+
+
+
+Lionel Messi   |  Dribbling : 95
+
+
+
+
+Neymar da Silva Santos Jr.   |  Dribbling : 95
+
+
+
+
+Lionel Messi   |  Curve : 93
+
+
+
+
+Neymar da Silva Santos Jr.   |  Curve : 88
+
+
+
+
+Lionel Messi   |  FreeKick Accuracy : 93
+
+
+
+
+Neymar da Silva Santos Jr.   |  FreeKick Accuracy : 87
+
+
+
+
+Lionel Messi   |  Long Passing : 90
+
+
+
+
+Marco Verratti   |  Long Passing : 89
+
+
+
+
+Neymar da Silva Santos Jr.   |  Ball Control : 94
+
+
+
+
+Lionel Messi   |  Ball Control : 93
+
+
+
+
+Kylian Mbappé   |  Acceleration : 97
+
+
+
+
+Achraf Hakimi   |  Acceleration : 91
+
+
+
+
+Kylian Mbappé   |  Sprint Speed : 97
+
+
+
+
+Achraf Hakimi   |  Sprint Speed : 93
+
+
+
+
+Kylian Mbappé   |  Agility : 93
+
+
+
+
+Neymar da Silva Santos Jr.   |  Agility : 93
+
+
+
+
+Kylian Mbappé   |  Reactions : 93
+
+
+
+
+Lionel Messi   |  Reactions : 92
+
+
+
+
+Lionel Messi   |  Balance : 95
+
+
+
+
+Marco Verratti   |  Balance : 93
+
+
+
+
+Renato Júnior Luz Sanches   |  Shot Power : 89
+
+
+
+
+Kylian Mbappé   |  Shot Power : 88
+
+
+
+
+Marcos Aoás Corrêa   |  Jumping : 92
+
+
+
+
+Sergio Ramos García   |  Jumping : 91
+
+
+
+
+Achraf Hakimi   |  Stamina : 92
+
+
+
+
+Fabián Ruiz Peña   |  Stamina : 90
+
+
+
+
+El Chadaille Bitshiabu   |  Strength : 91
+
+
+
+
+Danilo Luís Hélio Pereira   |  Strength : 89
+
+
+
+
+Lionel Messi   |  Long Shots : 91
+
+
+
+
+Fabián Ruiz Peña   |  Long Shots : 85
+
+
+
+
+Sergio Ramos García   |  Aggression : 90
+
+
+
+
+Presnel Kimpembe   |  Aggression : 90
+
+
+
+
+Marcos Aoás Corrêa   |  Interceptions : 89
+
+
+
+
+Marco Verratti   |  Interceptions : 85
+
+
+
+
+Lionel Messi   |  Positioning : 93
+
+
+
+
+Kylian Mbappé   |  Positioning : 92
+
+
+
+
+Lionel Messi   |  Vision : 94
+
+
+
+
+Neymar da Silva Santos Jr.   |  Vision : 89
+
+
+
+
+Neymar da Silva Santos Jr.   |  Penalties : 91
+
+
+
+
+Sergio Ramos García   |  Penalties : 90
+
+
+
+
+Lionel Messi   |  Composure : 96
+
+
+
+
+Marco Verratti   |  Composure : 94
+
+
+
+
+Marcos Aoás Corrêa   |  Marking : 90
+
+
+
+
+Sergio Ramos García   |  Marking : 82
+
+
+
+
+Marcos Aoás Corrêa   |  Standing Tackle : 89
+
+
+
+
+Presnel Kimpembe   |  Standing Tackle : 86
+
+
+
+
+Marcos Aoás Corrêa   |  Sliding Tackle : 89
+
+
+
+
+Marco Verratti   |  Sliding Tackle : 84
+
+
+
+
+Gianluigi Donnarumma   |  GK Diving : 90
+
+
+
+
+Keylor Navas   |  GK Diving : 89
+
+
+
+
+Keylor Navas   |  GK Handling : 84
+
+
+
+
+Gianluigi Donnarumma   |  GK Handling : 83
+
+
+
+
+Gianluigi Donnarumma   |  GK Kicking : 79
+
+
+
+
+Keylor Navas   |  GK Kicking : 75
+
+
+
+
+Keylor Navas   |  GK Positioning : 87
+
+
+
+
+Gianluigi Donnarumma   |  GK Positioning : 85
+
+
+
+
+Gianluigi Donnarumma   |  GK Reflexes : 89
+
+
+
+
+Keylor Navas   |  GK Reflexes : 89
+
+
+
+
+Kylian Mbappé   |  Striker (ST) : 92
+
+
+
+
+Lionel Messi   |  Striker (ST) : 90
+
+
+
+
+Kylian Mbappé   |  Left Wing (LW) : 90
+
+
+
+
+Lionel Messi   |  Left Wing (LW) : 90
+
+
+
+
+Lionel Messi   |  Left Forward (LF) : 91
+
+
+
+
+Kylian Mbappé   |  Left Forward (LF) : 90
+
+
+
+
+Lionel Messi   |  Center Forward (CF) : 91
+
+
+
+
+Kylian Mbappé   |  Center Forward (CF) : 90
+
+
+
+
+Lionel Messi   |  Right Forward (RF) : 91
+
+
+
+
+Kylian Mbappé   |  Right Forward (RF) : 90
+
+
+
+
+Kylian Mbappé   |  Right Wing (RW) : 90
+
+
+
+
+Lionel Messi   |  Right Wing (RW) : 90
+
+
+
+
+Kylian Mbappé   |  Center Attacking Midfielder (CAM) : 92
+
+
+
+
+Lionel Messi   |  Center Attacking Midfielder (CAM) : 91
+
+
+
+
+Kylian Mbappé   |  Left Midfielder (LM) : 92
+
+
+
+
+Lionel Messi   |  Left Midfielder (LM) : 91
+
+
+
+
+Lionel Messi   |  Center Midfielder (CM) : 88
+
+
+
+
+Marco Verratti   |  Center Midfielder (CM) : 87
+
+
+
+
+Kylian Mbappé   |  Right Midfielder (RM) : 92
+
+
+
+
+Lionel Messi   |  Right Midfielder (RM) : 91
+
+
+
+
+Marcos Aoás Corrêa   |  Left Wing Back (LWB) : 86
+
+
+
+
+Marco Verratti   |  Left Wing Back (LWB) : 85
+
+
+
+
+Marcos Aoás Corrêa   |  Center Defensive Midfielder (CDM) : 88
+
+
+
+
+Marco Verratti   |  Center Defensive Midfielder (CDM) : 87
+
+
+
+
+Marcos Aoás Corrêa   |  Right Wing Back (RWB) : 86
+
+
+
+
+Marco Verratti   |  Right Wing Back (RWB) : 85
+
+
+
+
+Marcos Aoás Corrêa   |  Left Back (LB) : 87
+
+
+
+
+Marco Verratti   |  Left Back (LB) : 83
+
+
+
+
+Marcos Aoás Corrêa   |  Center Back (CB) : 90
+
+
+
+
+Presnel Kimpembe   |  Center Back (CB) : 86
+
+
+
+
+Marcos Aoás Corrêa   |  Right Back (RB) : 87
+
+
+
+
+Marco Verratti   |  Right Back (RB) : 83
+
+
+
+
+Gianluigi Donnarumma   |  Goalkeeper (GK) : 89
+
+
+
+
+Keylor Navas   |  Goalkeeper (GK) : 88
+
+
+
+
+Lionel Messi   |  Attacking Average : 85
+
+
+
+
+Kylian Mbappé   |  Attacking Average : 82
+
+
+
+
+Lionel Messi   |  Attacking Total : 423
+
+
+
+
+Kylian Mbappé   |  Attacking Total : 411
+
+
+
+
+Lionel Messi   |  Skill Average : 93
+
+
+
+
+Neymar da Silva Santos Jr.   |  Skill Average : 89
+
+
+
+
+Lionel Messi   |  Skill Total : 464
+
+
+
+
+Neymar da Silva Santos Jr.   |  Skill Total : 445
+
+
+
+
+Kylian Mbappé   |  Movement Average : 92
+
+
+
+
+Lionel Messi   |  Movement Average : 88
+
+
+
+
+Kylian Mbappé   |  Movement Total : 461
+
+
+
+
+Lionel Messi   |  Movement Total : 441
+
+
+
+
+Renato Júnior Luz Sanches   |  Power Average : 84
+
+
+
+
+Kylian Mbappé   |  Power Average : 82
+
+
+
+
+Renato Júnior Luz Sanches   |  Power Total : 420
+
+
+
+
+Kylian Mbappé   |  Power Total : 410
+
+
+
+
+Marco Verratti   |  Mentality Average : 83
+
+
+
+
+Sergio Ramos García   |  Mentality Average : 82
+
+
+
+
+Marco Verratti   |  Mentality Total : 499
+
+
+
+
+Sergio Ramos García   |  Mentality Total : 490
+
+
+
+
+Marcos Aoás Corrêa   |  Defending Average : 89
+
+
+
+
+Presnel Kimpembe   |  Defending Average : 84
+
+
+
+
+Marcos Aoás Corrêa   |  Defending Total : 268
+
+
+
+
+Presnel Kimpembe   |  Defending Total : 251
+
+
+
+
+Gianluigi Donnarumma   |  Goalkeeping Average : 85
+
+
+
+
+Keylor Navas   |  Goalkeeping Average : 85
+
+
+
+
+Gianluigi Donnarumma   |  Goalkeeping Total : 426
+
+
+
+
+Keylor Navas   |  Goalkeeping Total : 424
+
+
+
+
+Achraf Hakimi   |  Base stats : 479
+
+
+
+
+Gianluigi Donnarumma   |  Base stats : 478
+
+
+
+
+Achraf Hakimi   |  Total Stats : 2229
+
+
+
+
+Renato Júnior Luz Sanches   |  Total Stats : 2215
+
+
+best dribblers in brazil
+
+Neymar da Silva Santos Jr.   |  Dribbling : 95
+Vinícius José de Oliveira Júnior   |  Dribbling : 92
+Philippe Coutinho Correia   |  Dribbling : 89
+Lucas Tolentino Coelho de Lima   |  Dribbling : 88
+Roberto Firmino Barbosa de Oliveira   |  Dribbling : 87
+
+
+best dribblers in Ghana
+
+Thomas Partey   |  Dribbling : 84
+Frank Acheampong   |  Dribbling : 83      
+Daniel-Kofi Kyereh   |  Dribbling : 82    
+Daniel-Kofi Kyereh   |  Dribbling : 82    
+Iñaki Williams Arthuer   |  Dribbling : 81
+
+
+best dribblers in English premier league
+
+Bernardo Mota Carvalho e Silva   |  Dribbling : 92
+Allan Saint-Maximin   |  Dribbling : 92
+Adama Traoré Diarra   |  Dribbling : 92
+Riyad Mahrez   |  Dribbling : 91       
+Jadon Sancho   |  Dribbling : 91       
+Mohamed Salah   |  Dribbling : 90
+Thiago Alcântara   |  Dribbling : 89
+Luis Díaz   |  Dribbling : 89
+Mateo Kovačić   |  Dribbling : 89
+Philippe Coutinho Correia   |  Dribbling : 89
+
+best ball controllers in English premier league 
+
+Thiago Alcântara   |  Ball Control : 92
+Bernardo Mota Carvalho e Silva   |  Ball Control : 91     
+Phil Foden   |  Ball Control : 91
+Kevin De Bruyne   |  Ball Control : 90
+Riyad Mahrez   |  Ball Control : 90
+İlkay Gündoğan   |  Ball Control : 90
+Arthur Henrique Ramos Oliveira Melo   |  Ball Control : 89
+Mateo Kovačić   |  Ball Control : 89
+Christian Eriksen   |  Ball Control : 89
+Philippe Coutinho Correia   |  Ball Control : 89
+
+
+best dribblers in spain primera division 
+
+Vinícius José de Oliveira Júnior   |  Dribbling : 92
+Francisco Román Alarcón Suárez   |  Dribbling : 91
+Yannick Carrasco   |  Dribbling : 90
+Eden Hazard   |  Dribbling : 89
+Ousmane Dembélé   |  Dribbling : 89
+João Félix Sequeira   |  Dribbling : 89
+Nabil Fekir   |  Dribbling : 89
+Thomas Lemar   |  Dribbling : 88
+Karim Benzema   |  Dribbling : 87
+Frenkie de Jong   |  Dribbling : 87
+
+best ball controllers in spain primera division 
+
+Karim Benzema   |  Ball Control : 91
+Luka Modrić   |  Ball Control : 90
+Francisco Román Alarcón Suárez   |  Ball Control : 90  
+Vinícius José de Oliveira Júnior   |  Ball Control : 89
+Robert Lewandowski   |  Ball Control : 89
+Frenkie de Jong   |  Ball Control : 89
+Toni Kroos   |  Ball Control : 88
+Pedro González López   |  Ball Control : 88
+João Félix Sequeira   |  Ball Control : 88
+Marcos Acuña   |  Ball Control : 88
+
+best dribblers from Ghana
+
+Thomas Partey   |  Dribbling : 84
+Frank Acheampong   |  Dribbling : 83      
+Daniel-Kofi Kyereh   |  Dribbling : 82    
+Daniel-Kofi Kyereh   |  Dribbling : 82    
+Iñaki Williams Arthuer   |  Dribbling : 81
+Mohammed Kudus   |  Dribbling : 80
+Kamaldeen Sulemana   |  Dribbling : 80
+Jeffrey Schlupp   |  Dribbling : 78
+Jordan Ayew   |  Dribbling : 78
+Kevin-Prince Boateng   |  Dribbling : 78
+
+best finishers from ghana 
+
+Frank Acheampong   |  Finishing : 78
+Iñaki Williams Arthuer   |  Finishing : 77
+Daniel-Kofi Kyereh   |  Finishing : 77    
+Daniel-Kofi Kyereh   |  Finishing : 77    
+Emmanuel Boateng   |  Finishing : 77      
+Abdul-Aziz Yakubu   |  Finishing : 73     
+Kwame Peprah   |  Finishing : 73
+Mohammed Dauda   |  Finishing : 73        
+Mohammed Kudus   |  Finishing : 72        
+Kamaldeen Sulemana   |  Finishing : 72  
+
+
+best finishers from Nigeria
+
+Victor Osimhen   |  Finishing : 88
+Paul Ebere Onuachu   |  Finishing : 83 
+Kelechi Iheanacho   |  Finishing : 81  
+Odion Ighalo   |  Finishing : 81       
+Umar Sadiq   |  Finishing : 80
+Taiwo Awoniyi   |  Finishing : 78      
+Emmanuel Dennis   |  Finishing : 77    
+Anthony Nwakaeme   |  Finishing : 77   
+Bartholomew Ogbeche   |  Finishing : 75
+Samuel Chukwueze   |  Finishing : 74   
+
+best dribblers from Nigeria
+
+Samuel Chukwueze   |  Dribbling : 87
+Sam Obisanya   |  Dribbling : 83       
+Moses Simon   |  Dribbling : 83        
+Chidera Ejuke   |  Dribbling : 83      
+Anthony Nwakaeme   |  Dribbling : 83   
+Bright Osayi-Samuel   |  Dribbling : 81
+Alex Iwobi   |  Dribbling : 80
+David Okereke   |  Dribbling : 79      
+Victor Osimhen   |  Dribbling : 78     
+Kelechi Iheanacho   |  Dribbling : 78  
+
+best dribblers from Portugal
+
+Bernardo Mota Carvalho e Silva   |  Dribbling : 92
+João Félix Sequeira   |  Dribbling : 89
+Rafael da Conceição Leão   |  Dribbling : 89
+Raphaël Guerreiro   |  Dribbling : 87
+João Pedro Cavaco Cancelo   |  Dribbling : 86        
+Rafael A. Ferreira Silva   |  Dribbling : 86
+Otávio Edmilson da Silva Monteiro   |  Dribbling : 86
+Daniel Castelo Podence   |  Dribbling : 86
+Diogo José Teixeira da Silva   |  Dribbling : 85     
+Armindo Tué Na Bangna   |  Dribbling : 85
+
+best finishers from Japan
+
+Takumi Minamino   |  Finishing : 77
+Kyogo Furuhashi   |  Finishing : 77
+Ayase Ueda   |  Finishing : 76
+Daizen Maeda   |  Finishing : 75
+Kaoru Mitoma   |  Finishing : 73
+Junya Ito   |  Finishing : 73
+Ado Onaiwu   |  Finishing : 72
+Kanya Fujimoto   |  Finishing : 72
+Kyosuke Tagawa   |  Finishing : 72
+Ritsu Doan   |  Finishing : 70
+
+best dribblers from Japan
+
+Daichi Kamada   |  Dribbling : 85
+Shoya Nakajima   |  Dribbling : 82
+Takefusa Kubo   |  Dribbling : 81
+Takumi Minamino   |  Dribbling : 81
+Ritsu Doan   |  Dribbling : 80
+Masaya Okugawa   |  Dribbling : 80
+Kaoru Mitoma   |  Dribbling : 78
+Genki Haraguchi   |  Dribbling : 78
+Junya Ito   |  Dribbling : 78
+Takahiro Kunimoto   |  Dribbling : 78
+
+best ball controllers from Nigeria
+
+Anthony Nwakaeme   |  Ball Control : 82
+Samuel Chukwueze   |  Ball Control : 81  
+Kelechi Iheanacho   |  Ball Control : 81 
+Victor Osimhen   |  Ball Control : 80    
+Sam Obisanya   |  Ball Control : 80      
+Alex Iwobi   |  Ball Control : 78        
+Paul Ebere Onuachu   |  Ball Control : 78
+Wilfred Ndidi   |  Ball Control : 77     
+Joe Aribo   |  Ball Control : 77
+Joe Aribo   |  Ball Control : 77
+
+Chengdu Rongcheng F.C.  vs SPAL
+
+Indonesia  vs Paraguay
+
+random fixtures 
+
+Villarreal CF  vs Liverpool
+
+Brazil  vs Singapore
+
+Colorado Rapids  vs Club Nacional de Football
+
+Mauritius  vs Bolivia
+
+
+LOSC Lille  vs KV Oostende
+
+Venezuela  vs Estonia
+
+Chengdu Rongcheng F.C.  vs SPAL
+
+Indonesia  vs Paraguay
+
+Chengdu Rongcheng F.C.  vs SPAL
+
+Indonesia  vs Paraguay
+
+
+Atakaş Hatayspor  vs Sarpsborg 08 FF
+
+Guinea-Bissau  vs Iran
+
+teams with 5 star skillers
+
+
+Manchester City  | no. of unique players 1
+Riyad Mahrez Manchester City Right Wing (RW)
+ Skill moves: 5  |
+Real Madrid CF  | no. of unique players 1
+Vinícius José de Oliveira Júnior Real Madrid CF Left Wing (LW)
+ Skill moves: 5  |
+FC Bayern München  | no. of unique players 1
+Kingsley Coman FC Bayern München Left Midfielder (LM)
+ Skill moves: 5  |
+Paris Saint-Germain  | no. of unique players 2
+Kylian Mbappé Paris Saint-Germain Striker (ST)
+ Skill moves: 5  |
+Neymar da Silva Santos Jr. Paris Saint-Germain Left Wing (LW)
+ Skill moves: 5  |
+Liverpool  | no. of unique players 2
+Thiago Alcântara Liverpool Center Midfielder (CM)
+ Skill moves: 5  |
+Roberto Firmino Barbosa de Oliveira Liverpool Center Forward (CF)
+ Skill moves: 5  |
+FC Barcelona  | no. of unique players 2
+Memphis Depay FC Barcelona Center Forward (CF)
+ Skill moves: 5  |
+Ousmane Dembélé FC Barcelona Left Midfielder (LM)
+ Skill moves: 5  | 
+Atlético de Madrid  | no. of unique players 1
+João Félix Sequeira Atlético de Madrid Center Attacking Midfielder (CAM)
+ Skill moves: 5  | 
+Chelsea  | no. of unique players 1
+Hakim Ziyech Chelsea Right Wing (RW)
+ Skill moves: 5  |
+Manchester United  | no. of unique players 3
+Jadon Sancho Manchester United Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Antony Matheus dos Santos Manchester United Left Midfielder (LM)
+ Skill moves: 5  |
+Marcus Rashford Manchester United Striker (ST)
+ Skill moves: 5  |
+Juventus  | no. of unique players 3
+Paul Pogba Juventus Center Midfielder (CM)
+ Skill moves: 5  |
+Ángel Di María Juventus Right Wing (RW)
+ Skill moves: 5  |
+Juan Cuadrado Juventus Right Back (RB)
+ Skill moves: 5  |
+Arsenal  | no. of unique players 1
+Martin Ødegaard Arsenal Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+RB Leipzig  | no. of unique players 1
+Christopher Nkunku RB Leipzig Center Attacking Midfielder (CAM)
+ Skill moves: 5  | 
+AC Milan  | no. of unique players 1
+Zlatan Ibrahimović AC Milan Striker (ST)
+ Skill moves: 5  |
+Sevilla FC  | no. of unique players 1
+Jesús Corona Sevilla FC Right Wing (RW)
+ Skill moves: 5  |
+SL Benfica  | no. of unique players 1
+David Neres Campos SL Benfica Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Newcastle United  | no. of unique players 1
+Allan Saint-Maximin Newcastle United Center Attacking Midfielder (CAM)
+ Skill moves: 5  | 
+West Ham United  | no. of unique players 1
+Lucas Tolentino Coelho de Lima West Ham United Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Aston Villa  | no. of unique players 1
+Philippe Coutinho Correia Aston Villa Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+AFC Richmond  | no. of unique players 1
+Jamie Tartt AFC Richmond Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Olympique de Marseille  | no. of unique players 2
+Amine Harit Olympique de Marseille Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Amine Harit Olympique de Marseille Center Attacking Midfielder (CAM)
+ Skill moves: 5  | 
+Olympique Lyonnais  | no. of unique players 1
+Rayan Cherki Olympique Lyonnais Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Sport-Club Freiburg  | no. of unique players 2
+Daniel-Kofi Kyereh Sport-Club Freiburg Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Daniel-Kofi Kyereh Sport-Club Freiburg Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Crystal Palace  | no. of unique players 1
+Wilfried Zaha Crystal Palace Left Wing (LW)
+ Skill moves: 5  |
+VfB Stuttgart  | no. of unique players 2
+Silas Katompa Mvumpa VfB Stuttgart Striker (ST)
+ Skill moves: 5  |
+Silas Katompa Mvumpa VfB Stuttgart Striker (ST)
+ Skill moves: 5  |
+Celtic  | no. of unique players 1
+João Pedro Neves Filipe Celtic Right Midfielder (RM)
+ Skill moves: 5  |
+AZ Alkmaar  | no. of unique players 1
+Jesper Karlsson AZ Alkmaar Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+US Salernitana 1919  | no. of unique players 1
+Franck Ribéry US Salernitana 1919 Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Al Nassr  | no. of unique players 1
+Cristiano Ronaldo Al Nassr Striker (ST)
+ Skill moves: 5  | 
+Al Hilal  | no. of unique players 1
+Matheus Fellipe Costa Pereira Al Hilal Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Al Ittihad  | no. of unique players 1
+Igor Caique Coronado Al Ittihad Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Rio Ave FC  | no. of unique players 1
+Hernâni Jorge Santos Fortes Rio Ave FC Left Wing (LW)
+ Skill moves: 5  |
+Atlanta United  | no. of unique players 1
+Marcelino Moreno Atlanta United Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+FC Cincinnati  | no. of unique players 1
+Luciano Acosta FC Cincinnati Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Jeonbuk Hyundai Motors  | no. of unique players 1
+Modou Barrow Jeonbuk Hyundai Motors Left Midfielder (LM)
+ Skill moves: 5  |
+New York City FC  | no. of unique players 1
+Talles Magno Bacelar Martins New York City FC Right Midfielder (RM)
+ Skill moves: 5  |
+Chicago Fire Football Club  | no. of unique players 1
+Xherdan Shaqiri Chicago Fire Football Club Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Hibernian  | no. of unique players 1
+Aiden McGeady Hibernian Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Gazişehir Gaziantep F.K.  | no. of unique players 1
+Alexandru Maxim Gazişehir Gaziantep F.K. Center Attacking Midfielder (CAM)
+ Skill moves: 5  |
+Vålerenga Fotball  | no. of unique players 1
+Osame Sahraoui Vålerenga Fotball Right Midfielder (RM)
+ Skill moves: 5  |
+Daegu FC  | no. of unique players 1
+Cesar Fernando Silva Melo Daegu FC Center Forward (CF)
+ Skill moves: 5  |
+Delfín Sporting Club  | no. of unique players 1
+Juan Diego Rojas Delfín Sporting Club Right Midfielder (RM)
+ Skill moves: 5  |
+Livingston FC  | no. of unique players 1
+Dylan Bahamboula Livingston FC Right Wing (RW)
+ Skill moves: 5  |
+
+
+{'league-name': 'English Premier League', 'teams': [{'TeamName': 'Manchester City', 'LeagueName': 'English Premier League', 'Overall': '85', 'Attack': '85', 'Midfield': '87', 'Defense': '83'}, {'TeamName': 'Liverpool', 'LeagueName': 'English Premier League', 'Overall': '84', 'Attack': '84', 'Midfield': '82', 'Defense': '084'}, {'TeamName': 'Chelsea', 'LeagueName': 'English Premier League', 'Overall': '83', 'Attack': '83', 'Midfield': '82', 'Defense': '82'}, {'TeamName': 'Manchester United', 'LeagueName': 'English Premier League', 'Overall': '82', 'Attack': '81', 'Midfield': '84', 'Defense': '81'}, {'TeamName': 'Tottenham Hotspur', 'LeagueName': 'English Premier League', 'Overall': '82', 'Attack': '84', 'Midfield': '81', 'Defense': '80'}, {'TeamName': 'Arsenal', 'LeagueName': 'English Premier League', 'Overall': '81', 'Attack': '80', 'Midfield': '84', 'Defense': '81'}, {'TeamName': 'Newcastle United', 'LeagueName': 'English Premier League', 'Overall': '79', 'Attack': '80', 'Midfield': '78', 'Defense': '79'}, {'TeamName': 'West Ham United', 'LeagueName': 'English Premier League', 'Overall': 
+'79', 'Attack': '78', 'Midfield': '82', 'Defense': '77'}, {'TeamName': 'Aston Villa', 'LeagueName': 'English Premier League', 'Overall': '79', 'Attack': '78', 'Midfield': '78', 'Defense': '79'}, {'TeamName': 'AFC Richmond', 'LeagueName': 'English Premier League', 'Overall': '78', 'Attack': '81', 'Midfield': '79', 'Defense': '77'}, {'TeamName': 'Leicester City', 'LeagueName': 'English Premier League', 'Overall': '78', 'Attack': '79', 'Midfield': '80', 'Defense': '75'}, {'TeamName': 'Wolverhampton Wanderers', 'LeagueName': 'English Premier League', 'Overall': '78', 'Attack': '78', 'Midfield': '79', 'Defense': '75'}, {'TeamName': 'Everton', 'LeagueName': 'English Premier League', 'Overall': '77', 'Attack': '78', 'Midfield': '76', 'Defense': '76'}, {'TeamName': 'Nottingham Forest', 'LeagueName': 'English Premier League', 'Overall': '77', 'Attack': '75', 'Midfield': '76', 'Defense': '77'}, {'TeamName': 'Fulham', 'LeagueName': 'English Premier League', 'Overall': '76', 'Attack': '79', 'Midfield': '77', 'Defense': '75'}, {'TeamName': 'Brighton & Hove Albion', 'LeagueName': 'English Premier League', 'Overall': '76', 'Attack': '75', 'Midfield': '76', 'Defense': '77'}, {'TeamName': 'Crystal Palace', 'LeagueName': 'English Premier League', 'Overall': '76', 'Attack': '75', 'Midfield': '77', 'Defense': '76'}, {'TeamName': 'Leeds United', 'LeagueName': 'English Premier League', 'Overall': '76', 'Attack': '77', 'Midfield': '76', 'Defense': '75'}, {'TeamName': 'Brentford', 'LeagueName': 'English Premier League', 'Overall': '75', 'Attack': '76', 'Midfield': '75', 'Defense': '75'}, {'TeamName': 'Southampton', 'LeagueName': 'English Premier League', 'Overall': '75', 'Attack': '76', 'Midfield': '72', 'Defense': '76'}, {'TeamName': 'AFC Bournemouth', 'LeagueName': 'English Premier League', 'Overall': '74', 'Attack': '75', 'Midfield': '73', 'Defense': '73'}]}
+
+{'Player Name': 'Kevin De Bruyne', 'Nationality': 'Belgium', 'Team': 'Manchester City', 'Kit Number': '17', 'League': 'English Premier League', 'Height(inches)': "5'11", 'Height(cm)': '181 ', 'Weight(lbs)': '154', 'Weight(kg)': '70', 'Best Position': 'Center Midfielder (CM)', 'Best Foot': 'Right', 'Weak Foot': '5', 'Skill moves': '4', 'International Reputation': '4', 'Crossing': '94', 'Finishing': '85', 'Heading Accuracy': '55', 'Short Passing': '93', 'Volleys': '83', 'Dribbling': 87, 'Curve': '89', 'FreeKick Accuracy': '83', 'Long Passing': '93', 'Ball Control': '90', 'Acceleration': '76', 'Sprint Speed': '73', 'Agility': '76', 'Reactions': '91', 'Balance': '78', 'Shot Power': '92', 'Jumping': '63', 'Stamina': '88', 'Strength': '74', 'Long Shots': '91', 'Aggression': '75', 'Interceptions': '66', 'Positioning': '88', 'Vision': '94', 'Penalties': '83', 'Composure': '89', 'Marking': '68', 'Standing Tackle': '65', 'Sliding Tackle': '53', 'GK Diving': '15', 'GK Handling': '13', 'GK Kicking': '5', 'GK Positioning': '10', 'GK Reflexes': '13', 'Striker (ST)': '86', 'Left Wing (LW)': '88', 'Left Forward (LF)': '87', 'Center Forward (CF)': '87', 'Right Forward (RF)': '87', 'Right Wing (RW)': '88', 'Center Attacking Midfielder (CAM)': '91', 'Left Midfielder (LM)': '91', 'Center Midfielder (CM)': '91', 'Right Midfielder (RM)': '91', 'Left Wing Back (LWB)': '82', 'Center Defensive Midfielder (CDM)': '82', 'Right Wing Back (RWB)': '82', 'Left Back (LB)': '78', 'Center Back (CB)': '72', 'Right Back (RB)': '78', 'Goalkeeper (GK)': '24', 'Attacking Average': '82', 'Attacking Total': '410', 'Skill Average': '89', 'Skill Total': '443', 'Movement Average': '79', 'Movement Total': '394', 'Power Average': '82', 'Power Total': '408', 'Mentality Average': '83', 'Mentality Total': '495', 'Defending Average': '62', 'Defending Total': '186', 'Goalkeeping Average': '11', 'Goalkeeping Total': '56', 'Base stats': '483', 'Total Stats': '2298', 'Overall': '91', 'Potential': '91', 'Stats': '2298', 'Pace': 74, 'Defending': 63, 'Passing': 92, 'Physical': 77, 'Shooting': 87}
+
+TEAMS WITH PLAYERS WITH EITHER ONE OR MORE FAST PLAYERS (over 90 pace)
+
+Real Madrid CF
+Paris Saint-Germain    
+Liverpool
+Chelsea
+RB Leipzig
+Borussia Dortmund      
+AC Milan
+Napoli
+SL Benfica
+Athletic Club de Bilbao
+Leicester City
+Wolverhampton Wanderers
+Sport-Club Freiburg
+Crystal Palace
+Fenerbahçe SK
+Racing Club de Lens
+Udinese Calcio
+1. FC Union Berlin
+Celtic
+Rangers FC
+VfL Bochum 1848
+Panathinaikos FC
+FC Red Bull Salzburg
+Unión Deportiva Las Palmas
+Vélez Sarsfield
+West Bromwich Albion
+Genoa
+RSC Anderlecht
+Stade de Reims
+Adana Demirspor
+BSC Young Boys
+Millwall
+Ulsan Hyundai FC
+Casa Pia
+Portland Timbers
+Rio Ave FC
+Yukatel Kayserispor
+FC Cincinnati
+Orlando City Soccer Club
+Jeonbuk Hyundai Motors
+New York Red Bulls
+Birmingham City
+FC Sochaux-Montbéliard
+CD Tenerife
+Real Sporting de Gijón
+SD Huesca
+FC Girondins de Bordeaux
+Molde FK
+FC Zürich
+Wuhan Three Towns
+BK Häcken
+Ipswich Town
+Jeju United FC
+Nîmes Olympique
+Peterborough United
+RKC Waalwijk
+Amiens SC
+Deportivo Cali
+Club Deportes Tolima
+Sepsi OSK Sf. Gheorghe
+Grenoble Foot 38
+Shanghai Shenhua FC
+Beijing Guoan FC
+Bristol Rovers
+St. Johnstone FC
+Exeter City
+Morecambe
+Stevenage
+
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97
+Liverpool
+        Mohamed Salah  pace : 90
+Chelsea
+        Raheem Sterling  pace : 90
+RB Leipzig
+        Timo Werner  pace : 90
+Borussia Dortmund
+        Karim Adeyemi  pace : 93
+AC Milan
+        Rafael da Conceição Leão  pace : 91
+Napoli
+        Victor Osimhen  pace : 90
+        Hirving Lozano  pace : 93
+SL Benfica
+        Rafael A. Ferreira Silva  pace : 91
+Athletic Club de Bilbao
+        Iñaki Williams Arthuer  pace : 94
+Leicester City
+        Patson Daka  pace : 90
+Wolverhampton Wanderers
+        Adama Traoré Diarra  pace : 96
+Sport-Club Freiburg
+        Kevin Schade  pace : 94
+Crystal Palace
+        Wilfried Zaha  pace : 91
+Fenerbahçe SK
+        Armindo Tué Na Bangna  pace : 90
+Racing Club de Lens
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+Udinese Calcio
+        Gerard Deulofeu Lázaro  pace : 90
+1. FC Union Berlin
+        Sheraldo Becker  pace : 95
+Celtic
+        Daizen Maeda  pace : 91
+Rangers FC
+        Fashion Sakala  pace : 90
+VfL Bochum 1848
+        Gerrit Holtmann  pace : 94
+Panathinaikos FC
+        Sebastián Palacios  pace : 91
+FC Red Bull Salzburg
+        Sekou Koita  pace : 92
+Unión Deportiva Las Palmas
+        Francisco Jesús Crespo García  pace : 92
+Vélez Sarsfield
+        Luca Orellano  pace : 90
+West Bromwich Albion
+        Brandon Thomas-Asante  pace : 91
+Genoa
+        Kelvin Yeboah  pace : 92
+RSC Anderlecht
+        Benito Raman  pace : 90
+Stade de Reims
+        Mohamed Toure  pace : 90
+Adana Demirspor
+        Babajide David Akintola  pace : 91
+BSC Young Boys
+        Meschack Elia  pace : 91
+Millwall
+        Isaac Olaofe  pace : 91
+Ulsan Hyundai FC
+        Won Sang Um  pace : 93
+Casa Pia
+        Saviour Godwin  pace : 91
+Portland Timbers
+        Yimmi Chará  pace : 91
+Rio Ave FC
+        Emmanuel Boateng  pace : 91
+        Hernâni Jorge Santos Fortes  pace : 91
+Yukatel Kayserispor
+        Carlos Manuel Cardoso Mané  pace : 90
+FC Cincinnati
+        Sergio Henrique Santos Gomes  pace : 90
+Orlando City Soccer Club
+        Benji Michel  pace : 90
+Jeonbuk Hyundai Motors
+        Seon Min Moon  pace : 91
+New York Red Bulls
+        Elias Manoel  pace : 91
+Birmingham City
+        Jonathan Leko  pace : 90
+FC Sochaux-Montbéliard
+        Aldo Kalulu  pace : 91
+CD Tenerife
+        Arvin Appiah  pace : 91
+Real Sporting de Gijón
+        Juan Ferney Otero  pace : 91
+SD Huesca
+        Aboubakary Kanté  pace : 91
+FC Girondins de Bordeaux
+        Alberth Elis  pace : 91
+        Alberth Elis  pace : 91
+Molde FK
+        David Datro Fofana  pace : 90
+        Mathis Bolly  pace : 90
+FC Zürich
+        Aiyegun Tosin  pace : 93
+Wuhan Three Towns
+        Ademilson Braga Bispo Júnior  pace : 92
+BK Häcken
+        Ibrahim Sadiq  pace : 90
+Ipswich Town
+        Kayden Jackson  pace : 91
+Jeju United FC
+        Gerso Fernandes  pace : 91
+Nîmes Olympique
+        Moussa Koné  pace : 92
+Peterborough United
+        Ricky-Jade Jones  pace : 91
+RKC Waalwijk
+        Florian Jozefzoon  pace : 91
+Amiens SC
+        Antoine Leautey  pace : 90
+Deportivo Cali
+        Yony González  pace : 93
+Club Deportes Tolima
+        Andrés Ibargüen  pace : 91
+Sepsi OSK Sf. Gheorghe
+        Cristi Bărbuț  pace : 93
+        Cătălin Golofca  pace : 90
+Grenoble Foot 38
+        Achille Anani  pace : 90
+Shanghai Shenhua FC
+        Christian Bassogog  pace : 90
+Beijing Guoan FC
+        Samuel Adegbenro  pace : 90
+Bristol Rovers
+        Harvey Saunders  pace : 90
+St. Johnstone FC
+        Michael O’Halloran  pace : 90
+Exeter City
+        Sam Nombe  pace : 90
+Morecambe
+        Dylan Connolly  pace : 91
+Stevenage
+        Elliott List  pace : 93
+
+
+teams that have 2 or more fast players with over 90 pace 
+
+        Napoli
+        Victor Osimhen  pace : 90
+        Hirving Lozano  pace : 93
+Racing Club de Lens
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+Rio Ave FC
+        Emmanuel Boateng  pace : 91
+        Hernâni Jorge Santos Fortes  pace : 91
+FC Girondins de Bordeaux
+        Alberth Elis  pace : 91
+        Alberth Elis  pace : 91
+Molde FK
+        David Datro Fofana  pace : 90
+        Mathis Bolly  pace : 90
+Sepsi OSK Sf. Gheorghe
+        Cristi Bărbuț  pace : 93
+        Cătălin Golofca  pace : 90
+
+
+teams with really fast players with pace equal to or over 90
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92
+        Alphonso Davies  pace : 94
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97
+Liverpool
+        Mohamed Salah  pace : 90
+        Luis Díaz  pace : 91
+FC Barcelona
+        Ousmane Dembélé  pace : 93
+        Raphael Dias Belloli  pace : 91
+Chelsea
+        Raheem Sterling  pace : 90
+Manchester United
+        Antony Matheus dos Santos  pace : 93
+Juventus
+        Federico Chiesa  pace : 91
+RB Leipzig
+        Timo Werner  pace : 90
+Borussia Dortmund
+        Karim Adeyemi  pace : 93
+AC Milan
+        Rafael da Conceição Leão  pace : 91
+Napoli
+        Victor Osimhen  pace : 90
+        Hirving Lozano  pace : 93
+SL Benfica
+        Rafael A. Ferreira Silva  pace : 91
+Bayer 04 Leverkusen
+        Moussa Diaby  pace : 93
+        Jeremie Frimpong  pace : 94
+Athletic Club de Bilbao
+        Iñaki Williams Arthuer  pace : 94
+        Nicholas Williams Arthuer  pace : 91
+Lazio
+        Manuel Lazzari  pace : 92
+FC Porto
+        Wenderson Nascimento Galeno  pace : 90
+Leicester City
+        Patson Daka  pace : 90
+Eintracht Frankfurt
+        Aurélio Gabriel Ulineia Buta  pace : 93
+Wolverhampton Wanderers
+        Adama Traoré Diarra  pace : 96
+AS Monaco
+        Gelson Dany Batalha Martins  pace : 90
+        Krépin Diatta  pace : 91
+RCD Espanyol de Barcelona
+        Adrià Giner Pedrosa  pace : 90
+Stade Rennais FC
+        Kamaldeen Sulemana  pace : 93
+Fulham
+        Daniel James  pace : 95
+Rayo Vallecano
+        Álvaro García Rivera  pace : 91
+Sport-Club Freiburg
+        Kevin Schade  pace : 94
+PSV
+        Yorbe Vertessen  pace : 93
+Crystal Palace
+        Wilfried Zaha  pace : 91
+Fenerbahçe SK
+        Armindo Tué Na Bangna  pace : 90
+        Bright Osayi-Samuel  pace : 94
+SC Braga
+        Álvaro Djaló Dias Fernandes  pace : 90
+LOSC Lille
+        Alan Virginius  pace : 90
+RCD Mallorca
+        Amath Ndiaye  pace : 91
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+Udinese Calcio
+        Gerard Deulofeu Lázaro  pace : 90
+        Festy Ebosele  pace : 91
+Boca Juniors
+        Sebastián Villa  pace : 94
+Beşiktaş JK
+        Georges-Kévin Nkoudou Mbida  pace : 91
+Club Brugge KV
+        Tajon Buchanan  pace : 92
+FC Nantes
+        Moses Simon  pace : 90
+1. FC Union Berlin
+        Sheraldo Becker  pace : 95
+Hertha BSC
+        Chidera Ejuke  pace : 92
+Celtic
+        Daizen Maeda  pace : 91
+        Alexandro Bernabei  pace : 90
+AZ Alkmaar
+        Ernest Poku  pace : 92
+US Salernitana 1919
+        Francesco Orlando  pace : 90
+1. FC Köln
+        Linton Maina  pace : 91
+Rangers FC
+        Ryan Kent  pace : 91
+        Rabbi Matondo  pace : 92
+        Fashion Sakala  pace : 90
+Watford
+        Ismaïla Sarr  pace : 94
+São Paulo
+        Igor Paolo Madinha Eustáquio  pace : 94
+VfL Bochum 1848
+        Gerrit Holtmann  pace : 94
+Panathinaikos FC
+        Sebastián Palacios  pace : 91
+FC Red Bull Salzburg
+        Noah Okafor  pace : 93
+        Sekou Koita  pace : 92
+Unión Deportiva Las Palmas
+        Francisco Jesús Crespo García  pace : 92
+Vélez Sarsfield
+        Luca Orellano  pace : 90
+West Bromwich Albion
+        Brandon Thomas-Asante  pace : 91
+Genoa
+        Kelvin Yeboah  pace : 92
+RSC Anderlecht
+        Benito Raman  pace : 90
+Stade de Reims
+        Mohamed Toure  pace : 90
+        Yaya Dukuly  pace : 92
+SD Eibar
+        José Corpas Serna  pace : 90
+Adana Demirspor
+        Henry Onyekuru  pace : 91
+        Babajide David Akintola  pace : 91
+BSC Young Boys
+        Nicolas Moumi Ngamaleu  pace : 91
+        Meschack Elia  pace : 91
+Al Shabab
+        Fawaz Al Sagour  pace : 91
+Royale Union Saint-Gilloise
+        Simon Adingra  pace : 90
+AS Saint-Étienne
+        El Hadji Dieye  pace : 90
+SV Darmstadt 98
+        Braydon Manu  pace : 91
+İttifak Holding Konyaspor
+        Konrad Michalak  pace : 92
+Millwall
+        Isaac Olaofe  pace : 91
+Ulsan Hyundai FC
+        Won Sang Um  pace : 93
+América de Cali
+        Déinner Quiñones  pace : 91
+Casa Pia
+        Saviour Godwin  pace : 91
+Heart of Midlothian
+        Josh Ginnelly  pace : 91
+LASK Linz
+        Husein Balić  pace : 90
+Portland Timbers
+        Yimmi Chará  pace : 91
+Clermont Foot 63
+        Jérémie Bela  pace : 90
+Rio Ave FC
+        Emmanuel Boateng  pace : 91
+        Hernâni Jorge Santos Fortes  pace : 91
+Yukatel Kayserispor
+        Carlos Manuel Cardoso Mané  pace : 90
+FC Cincinnati
+        Sergio Henrique Santos Gomes  pace : 90
+New England Revolution
+        Emmanuel Boateng  pace : 90
+Orlando City Soccer Club
+        Benji Michel  pace : 90
+Jeonbuk Hyundai Motors
+        Modou Barrow  pace : 92
+        Seon Min Moon  pace : 91
+New York Red Bulls
+        Elias Manoel  pace : 91
+        Serge Ngoma  pace : 90
+Birmingham City
+        Przemysław Płacheta  pace : 92
+        Jonathan Leko  pace : 90
+FC Sochaux-Montbéliard
+        Aldo Kalulu  pace : 91
+Karlsruher SC
+        Kelvin Arase  pace : 91
+SC Paderborn 07
+        Sirlord Conteh  pace : 95
+CD Tenerife
+        Arvin Appiah  pace : 91
+Real Sporting de Gijón
+        Juan Ferney Otero  pace : 91
+SD Huesca
+        Gerard Valentín Sancho  pace : 91
+        Aboubakary Kanté  pace : 91
+FC Girondins de Bordeaux
+        Alberth Elis  pace : 91
+        Alberth Elis  pace : 91
+Minnesota United FC
+        Niko Hansen  pace : 90
+FC Dallas
+        Jáder Obrian  pace : 90
+Charlotte FC
+        Kamil Jóźwiak  pace : 90
+Columbus Crew
+        Luis Díaz  pace : 90
+Molde FK
+        David Datro Fofana  pace : 90
+        Mathis Bolly  pace : 90
+Raków Częstochowa
+        Patryk Kun  pace : 91
+        Mateusz Wdowiak  pace : 91
+Club Atlético Banfield
+        Mauricio Cuero  pace : 90
+C.D. Universidad Católica del Ecuador
+        Arón Rodríguez  pace : 90
+        José Carabalí  pace : 91
+Club de Foot Montréal
+        Zachary Brault-Guillard  pace : 90
+Legia Warszawa
+        Makana Baku  pace : 90
+FC Zürich
+        Aiyegun Tosin  pace : 93
+Blackpool
+        CJ Hamilton  pace : 91
+KV Oostende
+        David Atanga  pace : 91
+Wuhan Three Towns
+        Ademilson Braga Bispo Júnior  pace : 92
+BK Häcken
+        Ibrahim Sadiq  pace : 90
+FC Nordsjælland
+        Lasso Coulibaly  pace : 90
+Rotherham United
+        Chiedozie Ogbene  pace : 91
+        Cohen Bramall  pace : 92
+Derby County
+        Tom Barkhuizen  pace : 93
+Ipswich Town
+        Wes Burns  pace : 92
+        Kayden Jackson  pace : 91
+Club The Strongest
+        Gabriel Esparza  pace : 90
+Jeju United FC
+        Gerso Fernandes  pace : 91
+Hibernian
+        Martin Boyle  pace : 92
+        Harry McKirdy  pace : 91
+Nîmes Olympique
+        Moussa Koné  pace : 92
+Peterborough United
+        David Ajiboye  pace : 91
+        Ricky-Jade Jones  pace : 91
+RKC Waalwijk
+        Florian Jozefzoon  pace : 91
+Amiens SC
+        Antoine Leautey  pace : 90
+Deportivo Cali
+        Yony González  pace : 93
+Club Deportes Tolima
+        Andrés Ibargüen  pace : 91
+SG Dynamo Dresden
+        Christian Conteh  pace : 93
+Charlton Athletic
+        Corey Blackett-Taylor  pace : 91
+        Diallang Jaiyesimi  pace : 90
+Sepsi OSK Sf. Gheorghe
+        Cristi Bărbuț  pace : 93
+        Cătălin Golofca  pace : 90
+Grenoble Foot 38
+        Achille Anani  pace : 90
+Shanghai Shenhua FC
+        Christian Bassogog  pace : 90
+Odense Boldklub
+        Emmanuel Sabbi  pace : 90
+Viktoria Köln
+        Simon Stehle  pace : 91
+Beijing Guoan FC
+        Samuel Adegbenro  pace : 90
+Shenzhen FC
+        Frank Acheampong  pace : 93
+Al Adalah
+        Abdulaziz Al Jamaan  pace : 91
+Lincoln City
+        Charles Vernam  pace : 91
+MSV Duisburg
+        Marvin Ajani  pace : 91
+Bristol Rovers
+        Harvey Saunders  pace : 90
+St. Johnstone FC
+        Michael O’Halloran  pace : 90
+Exeter City
+        Sam Nombe  pace : 90
+Kilmarnock
+        Jordan Jones  pace : 90
+Perth Glory
+        Matt Hatch  pace : 92
+Newcastle Jets
+        Trent Buhagiar  pace : 91
+Morecambe
+        Dylan Connolly  pace : 91
+Stevenage
+        Elliott List  pace : 93
+Bradford City
+        Abo Eisa  pace : 91
+Brisbane Roar
+        Nikola Mileusnić  pace : 91
+Swindon Town
+        Mohammad Dabre  pace : 91
+Bengaluru FC
+        Roy Krishna  pace : 90
+Guangzhou City
+        Guilherme Costa Marques  pace : 91
+Seongnam FC
+        Manuel Palacios  pace : 92
+
+
+TEAMS WITH  MORE THAN 3 SPEEDSTERS OVER 90
+
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92      
+        Alphonso Davies  pace : 94     
+Liverpool
+        Mohamed Salah  pace : 90       
+        Luis Díaz  pace : 91
+FC Barcelona
+        Ousmane Dembélé  pace : 93     
+        Raphael Dias Belloli  pace : 91
+Napoli
+        Victor Osimhen  pace : 90
+        Hirving Lozano  pace : 93
+Bayer 04 Leverkusen
+        Moussa Diaby  pace : 93
+        Jeremie Frimpong  pace : 94
+Athletic Club de Bilbao
+        Iñaki Williams Arthuer  pace : 94
+        Nicholas Williams Arthuer  pace : 91
+AS Monaco
+        Gelson Dany Batalha Martins  pace : 90
+        Krépin Diatta  pace : 91
+Fenerbahçe SK
+        Armindo Tué Na Bangna  pace : 90
+        Bright Osayi-Samuel  pace : 94
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+Udinese Calcio
+        Gerard Deulofeu Lázaro  pace : 90
+        Festy Ebosele  pace : 91
+Celtic
+        Daizen Maeda  pace : 91
+        Alexandro Bernabei  pace : 90
+Rangers FC
+        Ryan Kent  pace : 91
+        Rabbi Matondo  pace : 92
+        Fashion Sakala  pace : 90
+FC Red Bull Salzburg
+        Noah Okafor  pace : 93
+        Sekou Koita  pace : 92
+Stade de Reims
+        Mohamed Toure  pace : 90
+        Yaya Dukuly  pace : 92
+Adana Demirspor
+        Henry Onyekuru  pace : 91
+        Babajide David Akintola  pace : 91
+BSC Young Boys
+        Nicolas Moumi Ngamaleu  pace : 91
+        Meschack Elia  pace : 91
+Rio Ave FC
+        Emmanuel Boateng  pace : 91
+        Hernâni Jorge Santos Fortes  pace : 91
+Jeonbuk Hyundai Motors
+        Modou Barrow  pace : 92
+        Seon Min Moon  pace : 91
+New York Red Bulls
+        Elias Manoel  pace : 91
+        Serge Ngoma  pace : 90
+Birmingham City
+        Przemysław Płacheta  pace : 92
+        Jonathan Leko  pace : 90
+SD Huesca
+        Gerard Valentín Sancho  pace : 91
+        Aboubakary Kanté  pace : 91
+FC Girondins de Bordeaux
+        Alberth Elis  pace : 91
+        Alberth Elis  pace : 91
+Molde FK
+        David Datro Fofana  pace : 90
+        Mathis Bolly  pace : 90
+Raków Częstochowa
+        Patryk Kun  pace : 91
+        Mateusz Wdowiak  pace : 91
+C.D. Universidad Católica del Ecuador
+        Arón Rodríguez  pace : 90
+        José Carabalí  pace : 91
+Rotherham United
+        Chiedozie Ogbene  pace : 91
+        Cohen Bramall  pace : 92
+Ipswich Town
+        Wes Burns  pace : 92
+        Kayden Jackson  pace : 91
+Hibernian
+        Martin Boyle  pace : 92
+        Harry McKirdy  pace : 91
+Peterborough United
+        David Ajiboye  pace : 91
+        Ricky-Jade Jones  pace : 91
+Charlton Athletic
+        Corey Blackett-Taylor  pace : 91
+        Diallang Jaiyesimi  pace : 90
+Sepsi OSK Sf. Gheorghe
+        Cristi Bărbuț  pace : 93
+        Cătălin Golofca  pace : 90
+
+TEAMS WITH 3 SPEEDSTERS WITH OVER 90 PACE 
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92
+        Alphonso Davies  pace : 94
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+Rangers FC
+        Ryan Kent  pace : 91
+        Rabbi Matondo  pace : 92
+        Fashion Sakala  pace : 90
+
+
+FC Bayern München
+        Sadio Mané  pace : 90     
+        Kingsley Coman  pace : 92 
+        Alphonso Davies  pace : 94
+        Leroy Sané  pace : 88     
+Liverpool
+        Mohamed Salah  pace : 90  
+        Luis Díaz  pace : 91      
+        Darwin Núñez  pace : 89   
+AS Monaco
+        Gelson Dany Batalha Martins  pace : 90
+        Myron Boadu  pace : 88
+        Krépin Diatta  pace : 91
+Fiorentina
+        Jonathan Ikoné  pace : 89
+        Domilson Cordeiro dos Santos  pace : 88
+        Domilson Cordeiro dos Santos  pace : 88
+OGC Nice
+        Nicolas Pépé  pace : 88
+        Youcef Atal  pace : 88
+        Youcef Atal  pace : 88
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+Rangers FC
+        Ryan Kent  pace : 91
+        Rabbi Matondo  pace : 92
+        Fashion Sakala  pace : 90
+VfL Bochum 1848
+        Takuma Asano  pace : 88
+        Gerrit Holtmann  pace : 94
+        Jordi Osei-Tutu  pace : 89
+Stade de Reims
+        Junya Ito  pace : 89
+        Mohamed Toure  pace : 90
+        Yaya Dukuly  pace : 92
+Adana Demirspor
+        Henry Onyekuru  pace : 91
+        Babajide David Akintola  pace : 91
+        Samuel Nongoh  pace : 89
+SD Huesca
+        Gerard Valentín Sancho  pace : 91
+        Aboubakary Kanté  pace : 91
+        Patrick Soko  pace : 88
+Molde FK
+        David Datro Fofana  pace : 90
+        Rafik Zekhnini  pace : 88
+        Mathis Bolly  pace : 90
+
+TEAMS WITH 4 OR MORE SPEEDSTERS(ATTACKERS)
+
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92       
+        Alphonso Davies  pace : 94      
+        Leroy Sané  pace : 88
+
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+
+SPEEDSTERS WHO CAN REALLY DRIBBLE : (BOTH PACE AND DRIBBLING OVER 90)
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95  dribbling : 91
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97  dribbling : 92
+
+
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92       
+        Alphonso Davies  pace : 94      
+        Leroy Sané  pace : 88
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+
+ATTACKERS WITH OVER 88 PACE AND OVER 88 DRIBBLING 
+
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95  dribbling : 91 
+FC Bayern München
+        Sadio Mané  pace : 90  dribbling : 88
+        Kingsley Coman  pace : 92  dribbling : 88
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97  dribbling : 92
+Liverpool
+        Mohamed Salah  pace : 90  dribbling : 89
+        Luis Díaz  pace : 91  dribbling : 88
+Bayer 04 Leverkusen
+        Moussa Diaby  pace : 93  dribbling : 88
+Wolverhampton Wanderers
+        Adama Traoré Diarra  pace : 96  dribbling : 88
+
+
+ATTACKERS WITH OVER 88 PACE AND OVER 88 DRIBBLING 
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92       
+        Alphonso Davies  pace : 94      
+        Leroy Sané  pace : 88
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95  dribbling : 91 
+FC Bayern München
+        Sadio Mané  pace : 90  dribbling : 88
+        Kingsley Coman  pace : 92  dribbling : 88
+PS C:\Users\HP\Desktop\experimental_scapper> python .\ultimate_manipulation.py
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92       
+        Alphonso Davies  pace : 94      
+        Leroy Sané  pace : 88
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95  dribbling : 91 
+FC Bayern München
+        Sadio Mané  pace : 90  dribbling : 88
+        Kingsley Coman  pace : 92  dribbling : 88
+        Alphonso Davies  pace : 94  dribbling : 86
+        Leroy Sané  pace : 88  dribbling : 86
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97  dribbling : 92
+Liverpool
+        Mohamed Salah  pace : 90  dribbling : 89
+        Luis Díaz  pace : 91  dribbling : 88
+FC Barcelona
+        Ousmane Dembélé  pace : 93  dribbling : 87 
+        Raphael Dias Belloli  pace : 91  dribbling : 86
+Atlético de Madrid
+        Yannick Carrasco  pace : 89  dribbling : 87
+Chelsea
+        Raheem Sterling  pace : 90  dribbling : 86
+Manchester United
+        Antony Matheus dos Santos  pace : 93  dribbling : 87
+Tottenham Hotspur
+        Heung Min Son  pace : 88  dribbling : 85
+        Lucas Rodrigues M. Silva  pace : 89  dribbling : 85
+Juventus
+        Federico Chiesa  pace : 91  dribbling : 86
+AC Milan
+        Rafael da Conceição Leão  pace : 91  dribbling : 87
+Villarreal CF
+        Samuel Chukwueze  pace : 89  dribbling : 85
+SL Benfica
+        Rafael A. Ferreira Silva  pace : 91  dribbling : 86
+Bayer 04 Leverkusen
+PS C:\Users\HP\Desktop\experimental_scapper> python .\ultimate_manipulation.py
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92       
+        Alphonso Davies  pace : 94      
+        Leroy Sané  pace : 88
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+
+TEAMS WHICH HAVE PLAYERS WHO ARE FAST AND CAN DRIBBLE 
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95  dribbling : 91 
+FC Bayern München
+        Sadio Mané  pace : 90  dribbling : 88
+        Kingsley Coman  pace : 92  dribbling : 88
+        Alphonso Davies  pace : 94  dribbling : 86
+        Leroy Sané  pace : 88  dribbling : 86
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97  dribbling : 92
+Liverpool
+        Mohamed Salah  pace : 90  dribbling : 89
+        Luis Díaz  pace : 91  dribbling : 88
+FC Barcelona
+        Ousmane Dembélé  pace : 93  dribbling : 87
+        Raphael Dias Belloli  pace : 91  dribbling : 86
+Atlético de Madrid
+        Yannick Carrasco  pace : 89  dribbling : 87
+Chelsea
+        Raheem Sterling  pace : 90  dribbling : 86
+Manchester United
+        Antony Matheus dos Santos  pace : 93  dribbling : 87
+Tottenham Hotspur
+        Heung Min Son  pace : 88  dribbling : 85
+        Lucas Rodrigues M. Silva  pace : 89  dribbling : 85
+Juventus
+        Federico Chiesa  pace : 91  dribbling : 86
+AC Milan
+        Rafael da Conceição Leão  pace : 91  dribbling : 87
+Villarreal CF
+        Samuel Chukwueze  pace : 89  dribbling : 85
+SL Benfica
+        Rafael A. Ferreira Silva  pace : 91  dribbling : 86
+Bayer 04 Leverkusen
+        Moussa Diaby  pace : 93  dribbling : 88
+Atalanta
+        Luis Muriel  pace : 89  dribbling : 86
+Wolverhampton Wanderers
+        Adama Traoré Diarra  pace : 96  dribbling : 88
+Crystal Palace
+        Wilfried Zaha  pace : 91  dribbling : 87
+Leeds United
+        Luis Sinisterra  pace : 89  dribbling : 86
+
+
+PLAYERS WITH OVER 88 PACE AND OVER 80 DRIBBLING 
+FC Bayern München
+        Sadio Mané  pace : 90
+        Kingsley Coman  pace : 92       
+        Alphonso Davies  pace : 94      
+        Leroy Sané  pace : 88
+Racing Club de Lens
+        Przemysław Frankowski  pace : 92
+        Loïs Openda  pace : 93
+        Loïs Openda  pace : 93
+        Jimmy Cabot  pace : 88
+Real Madrid CF
+        Vinícius José de Oliveira Júnior  pace : 95  dribbling : 91 
+        Rodrygo Silva de Goes  pace : 88  dribbling : 84
+FC Bayern München
+        Sadio Mané  pace : 90  dribbling : 88
+        Kingsley Coman  pace : 92  dribbling : 88
+        Alphonso Davies  pace : 94  dribbling : 86
+        Leroy Sané  pace : 88  dribbling : 86
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97  dribbling : 92
+Liverpool
+        Mohamed Salah  pace : 90  dribbling : 89
+        Luis Díaz  pace : 91  dribbling : 88
+FC Barcelona
+        Ousmane Dembélé  pace : 93  dribbling : 87
+        Raphael Dias Belloli  pace : 91  dribbling : 86
+Atlético de Madrid
+        Yannick Carrasco  pace : 89  dribbling : 87
+Chelsea
+        Raheem Sterling  pace : 90  dribbling : 86
+Manchester United
+        Antony Matheus dos Santos  pace : 93  dribbling : 87
+Tottenham Hotspur
+        Heung Min Son  pace : 88  dribbling : 85
+        Lucas Rodrigues M. Silva  pace : 89  dribbling : 85
+Juventus
+        Federico Chiesa  pace : 91  dribbling : 86 
+RB Leipzig
+        Timo Werner  pace : 90  dribbling : 82
+Borussia Dortmund
+        Donyell Malen  pace : 88  dribbling : 84
+AC Milan
+        Rafael da Conceição Leão  pace : 91  dribbling : 87
+Villarreal CF
+        Arnaut Danjuma  pace : 88  dribbling : 82 
+        Samuel Chukwueze  pace : 89  dribbling : 85
+Napoli
+        Hirving Lozano  pace : 93  dribbling : 82
+SL Benfica
+        Rafael A. Ferreira Silva  pace : 91  dribbling : 86
+Bayer 04 Leverkusen
+        Moussa Diaby  pace : 93  dribbling : 88
+        Jeremie Frimpong  pace : 94  dribbling : 84
+Lazio
+        Manuel Lazzari  pace : 92  dribbling : 83
+Atalanta
+        Luis Muriel  pace : 89  dribbling : 86
+AFC Richmond
+        Sam Obisanya  pace : 89  dribbling : 81
+FC Porto
+        Wenderson Nascimento Galeno  pace : 90  dribbling : 82
+Wolverhampton Wanderers
+        Adama Traoré Diarra  pace : 96  dribbling : 88
+AS Monaco
+        Gelson Dany Batalha Martins  pace : 90  dribbling : 82
+RC Celta de Vigo
+        Franco Cervi  pace : 88  dribbling : 81
+Fiorentina
+        Jonathan Ikoné  pace : 89  dribbling : 83
+Stade Rennais FC
+        Kamaldeen Sulemana  pace : 93  dribbling : 81
+Palmeiras
+        Ronaldo Jailson Cabrais Petri  pace : 88  dribbling : 84
+Crystal Palace
+        Wilfried Zaha  pace : 91  dribbling : 87
+Leeds United
+        Luis Sinisterra  pace : 89  dribbling : 86
+Fenerbahçe SK
+        Armindo Tué Na Bangna  pace : 90  dribbling : 84
+OGC Nice
+        Nicolas Pépé  pace : 88  dribbling : 83
+Udinese Calcio
+        Gerard Deulofeu Lázaro  pace : 90  dribbling : 84
+FC Nantes
+        Moses Simon  pace : 90  dribbling : 82 
+Hertha BSC
+        Chidera Ejuke  pace : 92  dribbling : 81
+FC Augsburg
+        Ruben Vargas  pace : 89  dribbling : 80
+Watford
+        Ismaïla Sarr  pace : 94  dribbling : 80
+Gil Vicente FC
+        Murilo de Souza Costa  pace : 88  dribbling : 80
+Shakhtar Donetsk
+        Mykhailo Mudryk  pace : 88  dribbling : 80
+Atlanta United
+        Luiz Araújo  pace : 88  dribbling : 83
+Shenzhen FC
+        Frank Acheampong  pace : 93  dribbling : 81
+
+
+FINALE PACE PLUS DRIBBLING COMBO 
+        FC Bayern München
+        Sadio Mané  pace : 90  dribbling : 88
+        Kingsley Coman  pace : 92  dribbling : 88
+        Alphonso Davies  pace : 94  dribbling : 86
+        Leroy Sané  pace : 88  dribbling : 86 
+Paris Saint-Germain
+        Kylian Mbappé  pace : 97  dribbling : 92
+        Neymar da Silva Santos Jr.  pace : 87  dribbling : 94
+Liverpool
+        Mohamed Salah  pace : 90  dribbling : 89
+        Diogo José Teixeira da Silva  pace : 85  dribbling : 85
+        Luis Díaz  pace : 91  dribbling : 88
+FC Barcelona
+        Ousmane Dembélé  pace : 93  dribbling : 87 
+        Raphael Dias Belloli  pace : 91  dribbling : 86
+Atlético de Madrid
+        Yannick Carrasco  pace : 89  dribbling : 87
+        Ángel Correa  pace : 85  dribbling : 87
+Chelsea
+        Raheem Sterling  pace : 90  dribbling : 86
+        Christian Pulisic  pace : 87  dribbling : 87
+Manchester United
+        Antony Matheus dos Santos  pace : 93  dribbling : 87
+        Marcus Rashford  pace : 87  dribbling : 82
+Tottenham Hotspur
+        Heung Min Son  pace : 88  dribbling : 85
+        Lucas Rodrigues M. Silva  pace : 89  dribbling : 85
+Juventus
+        Federico Chiesa  pace : 91  dribbling : 86
+Arsenal
+        Gabriel Teodoro Martinelli Silva  pace : 87  dribbling : 81
+RB Leipzig
+        Timo Werner  pace : 90  dribbling : 82
+Borussia Dortmund
+        Donyell Malen  pace : 88  dribbling : 84
+AC Milan
+        Rafael da Conceição Leão  pace : 91  dribbling : 87
+        Ante Rebić  pace : 86  dribbling : 81
+        Sergiño Dest  pace : 86  dribbling : 81
+Villarreal CF
+        Arnaut Danjuma  pace : 88  dribbling : 82
+        Samuel Chukwueze  pace : 89  dribbling : 85
+Napoli
+        Hirving Lozano  pace : 93  dribbling : 82 
+SL Benfica
+        Rafael A. Ferreira Silva  pace : 91  dribbling : 86 
+Bayer 04 Leverkusen
+        Moussa Diaby  pace : 93  dribbling : 88
+        Jeremie Frimpong  pace : 94  dribbling : 84
+        Karim Bellarabi  pace : 86  dribbling : 82
+Lazio
+        Ciro Immobile  pace : 85  dribbling : 80
+        Felipe Anderson Pereira Gomes  pace : 85  dribbling : 84
+        Manuel Lazzari  pace : 92  dribbling : 83
+Atalanta
+        Luis Muriel  pace : 89  dribbling : 86
+        Ademola Lookman  pace : 85  dribbling : 83
+AFC Richmond
+        Sam Obisanya  pace : 89  dribbling : 81 
+        Moe Bumbercatch  pace : 87  dribbling : 82
+FC Porto
+        Eduardo Gabriel Aquino Cossa  pace : 85  dribbling : 81
+        Wenderson Nascimento Galeno  pace : 90  dribbling : 82
+Wolverhampton Wanderers
+        Gonçalo Manuel Ganchinho Guedes  pace : 86  dribbling : 83
+        Adama Traoré Diarra  pace : 96  dribbling : 88
+AS Monaco
+        Gelson Dany Batalha Martins  pace : 90  dribbling : 82
+RC Celta de Vigo
+        Franco Cervi  pace : 88  dribbling : 81
+Fiorentina
+        Nicolás González  pace : 87  dribbling : 84
+        Jonathan Ikoné  pace : 89  dribbling : 83
+Everton
+        Demarai Gray  pace : 86  dribbling : 83
+Stade Rennais FC
+        Kamaldeen Sulemana  pace : 93  dribbling : 81 
+Palmeiras
+        Ronaldo Jailson Cabrais Petri  pace : 88  dribbling : 84
+PSV
+        Cody Gakpo  pace : 87  dribbling : 84
+Crystal Palace
+        Wilfried Zaha  pace : 91  dribbling : 87
+Leeds United
+        Luis Sinisterra  pace : 89  dribbling : 86
+Fenerbahçe SK
+        Armindo Tué Na Bangna  pace : 90  dribbling : 84
+OGC Nice
+        Nicolas Pépé  pace : 88  dribbling : 83
+Trabzonspor
+        Edin Višća  pace : 87  dribbling : 82
+Udinese Calcio
+        Gerard Deulofeu Lázaro  pace : 90  dribbling : 84
+Feyenoord
+        Javairô Dilrosun  pace : 86  dribbling : 80 
+FC Nantes
+        Moses Simon  pace : 90  dribbling : 82
+VfB Stuttgart
+        Silas Katompa Mvumpa  pace : 87  dribbling : 81
+        Silas Katompa Mvumpa  pace : 87  dribbling : 81
+Hertha BSC
+        Chidera Ejuke  pace : 92  dribbling : 81
+Celtic
+        João Pedro Neves Filipe  pace : 86  dribbling : 80
+FC Augsburg
+        Ruben Vargas  pace : 89  dribbling : 80 
+Watford
+        Ismaïla Sarr  pace : 94  dribbling : 80
+Gil Vicente FC
+        Murilo de Souza Costa  pace : 88  dribbling : 80
+Al Ittihad
+        Romário Ricardo da Silva  pace : 86  dribbling : 80
+Antalyaspor
+        Shoya Nakajima  pace : 86  dribbling : 82
+Shakhtar Donetsk
+        Mykhailo Mudryk  pace : 88  dribbling : 80
+Atlanta United
+        Luiz Araújo  pace : 88  dribbling : 83
+Shenzhen FC
+        Frank Acheampong  pace : 93  dribbling : 81
+
+THE ONLY DEFENDER WITH OVER 90 PACE AND 80 DEFENDING 
+Manchester City
+        Kyle Walker  pace : 91 defending : 80
+
+86 pace  and defending over 80
+
+Manchester City
+        João Pedro Cavaco Cancelo  pace : 85 defending : 81
+Manchester City
+        Kyle Walker  pace : 91 defending : 80
+Real Madrid CF
+        Éder Gabriel Militão  pace : 86 defending : 85     
+RB Leipzig
+        Lukas Klostermann  pace : 86 defending : 82        
+AC Milan
+        Fikayo Tomori  pace : 86 defending : 86
+
+Manchester City
+        Kyle Walker  pace : 91 defending : 80
+Real Madrid CF
+        Éder Gabriel Militão  pace : 86 defending : 85
+RB Leipzig
+        Lukas Klostermann  pace : 86 defending : 82   
+AC Milan
+        Fikayo Tomori  pace : 86 defending : 86 
+
+
+fast defenders 
+
+Manchester City
+        João Pedro Cavaco Cancelo  pace : 85 defending : 81
+        Kyle Walker  pace : 91 defending : 80
+Real Madrid CF
+        Éder Gabriel Militão  pace : 86 defending : 85     
+FC Barcelona
+        Jules Koundé  pace : 84 defending : 84
+RB Leipzig
+        Lukas Klostermann  pace : 86 defending : 82        
+AC Milan
+        Fikayo Tomori  pace : 86 defending : 86
+
+defenders with over 80 pace and over 80 defending
+
+Manchester City
+        João Pedro Cavaco Cancelo  pace : 85 defending : 81
+        Kyle Walker  pace : 91 defending : 80
+Real Madrid CF
+        Antonio Rüdiger  pace : 82 defending : 86
+        Éder Gabriel Militão  pace : 86 defending : 85     
+FC Bayern München
+        Dayot Upamecano  pace : 82 defending : 80
+Paris Saint-Germain
+        Presnel Kimpembe  pace : 80 defending : 83
+Liverpool
+        Virgil van Dijk  pace : 81 defending : 90
+        Andrew Robertson  pace : 80 defending : 82
+        Joe Gomez  pace : 80 defending : 81
+FC Barcelona
+        Jules Koundé  pace : 84 defending : 84
+Chelsea
+        Kalidou Koulibaly  pace : 82 defending : 88
+        Reece James  pace : 81 defending : 80
+Manchester United
+        Raphaël Varane  pace : 81 defending : 85
+RB Leipzig
+        Joško Gvardiol  pace : 82 defending : 80
+        Lukas Klostermann  pace : 86 defending : 82
+AC Milan
+        Fikayo Tomori  pace : 86 defending : 86
+Roma
+        Roger Ibañez Da Silva  pace : 82 defending : 81
+SL Benfica
+        Lucas Veríssimo da Silva  pace : 81 defending : 80
+Sporting CP
+        Gonçalo Bernardo Inácio  pace : 80 defending : 80
+Eintracht Frankfurt
+        Evan Ndicka  pace : 80 defending : 81
+Ajax
+        Jurriën Timber  pace : 82 defending : 81
+Olympique Lyonnais
+        Nicolás Tagliafico  pace : 80 defending : 80
+
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO DEFENDING ABILITY 
+
+1. Virgil van Dijk  defending : 90
+2. Marcos Aoás Corrêa  defending : 89
+3. Rúben Santos Gato Alves Dias  defending : 88
+4. Milan Škriniar  defending : 88
+5. Kalidou Koulibaly  defending : 88
+6. Joel Matip  defending : 87
+7. Stefan de Vrij  defending : 87
+8. Stefan Savić  defending : 87
+9. Thiago Emiliano da Silva  defending : 87    
+10. Mats Hummels  defending : 87
+11. Aymeric Laporte  defending : 86
+12. Antonio Rüdiger  defending : 86
+13. Alessandro Bastoni  defending : 86
+14. Fikayo Tomori  defending : 86
+15. David Alaba  defending : 85
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO DEFENDING ABILITY 
+
+1. Virgil van Dijk  defending : 90 team : Liverpool
+2. Marcos Aoás Corrêa  defending : 89 team : Paris Saint-Germain      
+3. Rúben Santos Gato Alves Dias  defending : 88 team : Manchester City
+4. Milan Škriniar  defending : 88 team : Inter
+5. Kalidou Koulibaly  defending : 88 team : Chelsea       
+6. Joel Matip  defending : 87 team : Liverpool
+7. Stefan de Vrij  defending : 87 team : Inter
+8. Stefan Savić  defending : 87 team : Atlético de Madrid 
+9. Thiago Emiliano da Silva  defending : 87 team : Chelsea
+10. Mats Hummels  defending : 87 team : Borussia Dortmund 
+11. Aymeric Laporte  defending : 86 team : Manchester City
+12. Antonio Rüdiger  defending : 86 team : Real Madrid CF
+13. Alessandro Bastoni  defending : 86 team : Inter
+14. Fikayo Tomori  defending : 86 team : AC Milan
+15. David Alaba  defending : 85 team : Real Madrid CF
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO PACE 
+
+1. Alex Bangura pace : 94 team : SC Cambuur
+2. Theo Hernández pace : 93 team : AC Milan
+3. Zaidu Sanusi pace : 93 team : FC Porto
+4. Jeremiah St. Juste pace : 93 team : Sporting CP
+5. Adryan Juliano Zonta Torres pace : 93 team : RB Bragantino
+6. Ruan Gregório Teixeira pace : 93 team : Orlando City Soccer Club
+7. Ferland Mendy pace : 92 team : Real Madrid CF
+8. Achraf Hakimi pace : 92 team : Paris Saint-Germain
+9. Alexander Bah pace : 92 team : SL Benfica
+10. Jorge Sánchez pace : 92 team : Ajax
+11. Wellingt. Edson Sabrão Rolim pace : 92 team : Flamengo
+12. Falaye Sacko pace : 92 team : Montpellier Hérault SC
+13. Álvaro Angulo pace : 92 team : Atlético Nacional
+14. Kyle Walker pace : 91 team : Manchester City
+15. Leonardo Spinazzola pace : 91 team : Roma
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO DRIBBLING 
+
+1. Juan Cuadrado dribbling : 88 team : Juventus
+2. Marcos Acuña dribbling : 87 team : Sevilla FC
+3. João Pedro Cavaco Cancelo dribbling : 85 team : Manchester City
+4. Javier Galán Gil dribbling : 84 team : RC Celta de Vigo
+5. Alejandro Grimaldo García dribbling : 83 team : SL Benfica
+6. Jordi Alba Ramos dribbling : 82 team : FC Barcelona
+7. Reece James dribbling : 82 team : Chelsea
+8. Juan Bernat Velasco dribbling : 81 team : Paris Saint-Germain
+9. Andrew Robertson dribbling : 81 team : Liverpool
+10. Theo Hernández dribbling : 81 team : AC Milan
+11. Jesús Navas González dribbling : 81 team : Sevilla FC
+12. Ricardo Barbosa Pereira dribbling : 81 team : Leicester City
+13. David Alaba dribbling : 80 team : Real Madrid CF
+14. Daniel Carvajal Ramos dribbling : 80 team : Real Madrid CF
+15. Lucas Vázquez Iglesias dribbling : 80 team : Real Madrid CF
+
+
+
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO PHYSICAL 
+
+1. Tom Aldred physical : 90 team : Brisbane Roar
+2. Denzel Dumfries physical : 89 team : Inter
+3. João Maria Palhinha Gonçalves physical : 89 team : Fulham        
+4. Rúben Santos Gato Alves Dias physical : 88 team : Manchester City
+5. Joseph Aidoo physical : 88 team : RC Celta de Vigo
+6. Harrison Delbridge physical : 88 team : Incheon United FC        
+7. Emre Can physical : 87 team : Borussia Dortmund
+8. Képler Laveran Lima Ferreira physical : 87 team : FC Porto
+9. Sebastián Coates physical : 87 team : Sporting CP
+10. Rafael Jiménez Jarque physical : 87 team : Cádiz CF
+11. Alexander Barboza physical : 87 team : Club Libertad
+12. Alexander Barboza physical : 87 team : Club Libertad
+13. Matthijs de Ligt physical : 86 team : FC Bayern München
+14. Presnel Kimpembe physical : 86 team : Paris Saint-Germain
+15. Virgil van Dijk physical : 86 team : Liverpool
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO SHOOTING 
+
+1. Emre Can shooting : 78 team : Borussia Dortmund
+2. Alessandro Florenzi shooting : 77 team : AC Milan
+3. Achraf Hakimi shooting : 75 team : Paris Saint-Germain
+4. Robin Gosens shooting : 75 team : Inter
+5. Juan Cuadrado shooting : 75 team : Juventus
+6. Marcos Alonso Mendoza shooting : 74 team : FC Barcelona
+7. Thomas Meunier shooting : 74 team : Borussia Dortmund
+8. Marcos Acuña shooting : 74 team : Sevilla FC
+9. Alex Nicolao Telles shooting : 74 team : Sevilla FC
+10. João Pedro Cavaco Cancelo shooting : 73 team : Manchester City
+11. Lucas Vázquez Iglesias shooting : 73 team : Real Madrid CF
+12. Marco Davide Faraoni shooting : 73 team : Hellas Verona
+13. James Tavernier shooting : 73 team : Rangers FC
+14. Theo Hernández shooting : 72 team : AC Milan
+15. Alfonso Pedraza Sag shooting : 72 team : Villarreal CF
+
+BEST FIFTEEN DEFENDERS IN THE GAME ACCORDING TO PASSING 
+
+1. João Pedro Cavaco Cancelo Passing : 85 team : Manchester City
+2. David Alaba Passing : 83 team : Real Madrid CF
+3. Marcos Acuña Passing : 83 team : Sevilla FC
+4. Jordi Alba Ramos Passing : 82 team : FC Barcelona
+5. Reece James Passing : 82 team : Chelsea
+6. Jesús Navas González Passing : 82 team : Sevilla FC
+7. Kieran Trippier Passing : 82 team : Newcastle United
+8. Andrew Robertson Passing : 81 team : Liverpool
+9. Daniel Alves da Silva Passing : 81 team : FC Barcelona
+10. Alex Nicolao Telles Passing : 81 team : Sevilla FC
+11. Alejandro Grimaldo García Passing : 81 team : SL Benfica
+12. Marcos Alonso Mendoza Passing : 80 team : FC Barcelona
+13. Lucas Digne Passing : 80 team : Aston Villa
+14. Lucas Vázquez Iglesias Passing : 79 team : Real Madrid CF
+15. Achraf Hakimi Passing : 79 team : Paris Saint-Germain
+
+
+PACE GODS 
+
+Kylian Mbappé : 97
+Adama Traoré Diarra : 96
+Vinícius José de Oliveira Júnior : 95
+Daniel James : 95
+Sheraldo Becker : 95
+Sirlord Conteh : 95
+Alphonso Davies : 94
+Jeremie Frimpong : 94
+Iñaki Williams Arthuer : 94
+Kevin Schade : 94
+Bright Osayi-Samuel : 94
+Sebastián Villa : 94
+Ismaïla Sarr : 94
+Igor Paolo Madinha Eustáquio : 94
+Gerrit Holtmann : 94
+Alex Bangura : 94
+
+SCORING GODS 
+
+Cristiano Ronaldo : 92
+Erling Haaland : 91    
+Robert Lewandowski : 91
+Harry Kane : 91        
+Kylian Mbappé : 89     
+Lionel Messi : 89      
+Mohamed Salah : 89     
+Kevin De Bruyne : 88   
+Karim Benzema : 88     
+Heung Min Son : 88     
+Ciro Immobile : 87
+Bruno Miguel Borges Fernandes : 86
+Gerard Moreno Balagueró : 86
+Jamie Tartt : 86
+Luis Suárez : 86
+Romelu Lukaku : 85
+
+DRIBBLING GODS 
+
+Lionel Messi : 94
+Neymar da Silva Santos Jr. : 94      
+Bernardo Mota Carvalho e Silva : 92  
+Kylian Mbappé : 92
+Riyad Mahrez : 91
+Vinícius José de Oliveira Júnior : 91
+Marco Verratti : 91
+Paulo Dybala : 91
+Thiago Alcântara : 90
+Jadon Sancho : 90
+Lorenzo Insigne : 90
+Phil Foden : 89
+Mohamed Salah : 89
+Christopher Nkunku : 89
+Francisco Román Alarcón Suárez : 89
+Allan Saint-Maximin : 89
+
+GODS OF DEFENSE 
+
+Virgil van Dijk : 90
+Marcos Aoás Corrêa : 89
+Rúben Santos Gato Alves Dias : 88
+Milan Škriniar : 88
+Kalidou Koulibaly : 88
+Joel Matip : 87
+Stefan de Vrij : 87
+Stefan Savić : 87
+N’Golo Kanté : 87
+Thiago Emiliano da Silva : 87    
+Carlos Henrique Venancio Casimiro : 87
+Mats Hummels : 87
+Aymeric Laporte : 86
+Antonio Rüdiger : 86
+Fábio Henrique Tavares : 86
+Alessandro Bastoni : 86
+
+PHYSICAL PLAYERS 
+
+Carlos Henrique Venancio Casimiro : 90
+Tom Aldred : 90
+Denzel Dumfries : 89
+João Maria Palhinha Gonçalves : 89
+Moussa Marega : 89
+Rúben Santos Gato Alves Dias : 88 
+Geoffrey Kondogbia : 88
+Joseph Aidoo : 88
+Jon Ander Garrido Moracia : 88    
+Harrison Delbridge : 88
+Erling Haaland : 87
+Franck Yannick Kessié : 87
+Emre Can : 87
+Képler Laveran Lima Ferreira : 87
+Sebastián Coates : 87
+Rafael Jiménez Jarque : 87 
+
+
+with teams included 
+most physical players 
+
+Carlos Henrique Venancio Casimiro : attribute  : 90 team : Manchester United
+Tom Aldred : attribute  : 90 team : Brisbane Roar
+Denzel Dumfries : attribute  : 89 team : Inter
+João Maria Palhinha Gonçalves : attribute  : 89 team : Fulham        
+Moussa Marega : attribute  : 89 team : Al Hilal
+Rúben Santos Gato Alves Dias : attribute  : 88 team : Manchester City
+Geoffrey Kondogbia : attribute  : 88 team : Atlético de Madrid       
+Joseph Aidoo : attribute  : 88 team : RC Celta de Vigo
+Jon Ander Garrido Moracia : attribute  : 88 team : Cádiz CF
+Harrison Delbridge : attribute  : 88 team : Incheon United FC
+Erling Haaland : attribute  : 87 team : Manchester City
+Franck Yannick Kessié : attribute  : 87 team : FC Barcelona
+Emre Can : attribute  : 87 team : Borussia Dortmund
+Képler Laveran Lima Ferreira : attribute  : 87 team : FC Porto
+Sebastián Coates : attribute  : 87 team : Sporting CP
+
+BEST PASSERS IN THE GAME 
+
+Kevin De Bruyne : attribute  : 93 team : Manchester City
+Toni Kroos : attribute  : 90 team : Real Madrid CF
+Lionel Messi : attribute  : 90 team : Paris Saint-Germain
+Daniel Parejo Muñoz : attribute  : 90 team : Villarreal CF
+Luka Modrić : attribute  : 89 team : Real Madrid CF
+Trent Alexander-Arnold : attribute  : 89 team : Liverpool
+Bruno Miguel Borges Fernandes : attribute  : 88 team : Manchester United
+Christian Eriksen : attribute  : 88 team : Manchester United
+Joshua Kimmich : attribute  : 87 team : FC Bayern München
+Hakim Ziyech : attribute  : 87 team : Chelsea
+Marco Verratti : attribute  : 86 team : Paris Saint-Germain
+Thiago Alcântara : attribute  : 86 team : Liverpool
+Frenkie de Jong : attribute  : 86 team : FC Barcelona
+Luiz Frello Filho Jorge : attribute  : 86 team : Chelsea
+Martin Ødegaard : attribute  : 86 team : Arsenal
+Raphaël Guerreiro : attribute  : 86 team : Borussia Dortmund 
+
+
+
+

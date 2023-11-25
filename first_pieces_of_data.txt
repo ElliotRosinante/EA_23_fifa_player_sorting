@@ -1,0 +1,611 @@
+**** Kevin De Bruyne
+Kevin De Bruyne
+Manchester City
+5'11"
+154lbs
+#17 
+CM
+Center Midfielder
+Belgium
+91
+91
+2298
+https://www.fifaratings.com/kevin-de-bruyne
+**** Erling Haaland
+Erling Haaland
+Manchester City
+6'5"
+207lbs
+#9 
+ST
+Striker
+Norway
+89
+94
+2123
+https://www.fifaratings.com/erling-haaland
+**** Ederson
+Ederson
+Manchester City
+6'2"
+190lbs
+#31 
+GK
+Goalkeeper
+Brazil
+89
+91
+1582
+https://www.fifaratings.com/ederson-santana-de-moraes
+**** Rúben Dias
+Rúben Dias
+Manchester City
+6'2"
+181lbs
+#3 
+CB
+Centre Back
+Portugal
+88
+91
+1894
+https://www.fifaratings.com/ruben-santos-gato-alves-dias
+**** João Cancelo
+João Cancelo
+Manchester City
+6'0"
+163lbs
+#7 
+LB
+Left Back
+Portugal
+88
+88
+2260
+https://www.fifaratings.com/joao-pedro-cavaco-cancelo
+**** Bernardo Silva
+Bernardo Silva
+Manchester City
+5'8"
+141lbs
+#20 
+CAM
+Center Attacking Midfielder
+Portugal
+88
+88
+2200
+https://www.fifaratings.com/bernardo-mota-carvalho-e-silva
+**** Rodri
+Rodri
+Manchester City
+6'3"
+181lbs
+#16 
+CDM
+Center Defensive Midfielder
+Spain
+87
+89
+2133
+https://www.fifaratings.com/rodrigo-hernandez-cascante
+**** Aymeric Laporte
+Aymeric Laporte
+Manchester City
+6'3"
+187lbs
+#14 
+CB
+Centre Back
+Spain
+86
+87
+1962
+https://www.fifaratings.com/aymeric-laporte
+**** Phil Foden
+Phil Foden
+Manchester City
+5'7"
+152lbs
+#47 
+CAM
+Center Attacking Midfielder
+England
+85
+92
+2094
+https://www.fifaratings.com/phil-foden
+**** Riyad Mahrez
+Riyad Mahrez
+Manchester City
+5'10"
+148lbs
+#26 
+RW
+Right Winger
+Algeria
+85
+85
+2048
+https://www.fifaratings.com/riyad-mahrez
+**** İ. Gündoğan
+İ. Gündoğan
+Manchester City
+5'11"
+176lbs
+#8 
+CM
+Center Midfielder
+Germany
+85
+85
+2196
+https://www.fifaratings.com/ilkay-gundogan
+**** Kyle Walker
+Kyle Walker
+Manchester City
+6'0"
+183lbs
+#2 
+RB
+Right Back
+England
+85
+85
+2196
+https://www.fifaratings.com/kyle-walker
+**** Jack Grealish
+Jack Grealish
+Manchester City
+5'11"
+179lbs
+#10 
+LW
+Left Winger
+England
+84
+84
+2017
+https://www.fifaratings.com/jack-grealish
+**** John Stones
+John Stones
+Manchester City
+6'2"
+168lbs
+#5 
+CB
+Centre Back
+England
+83
+84
+1968
+https://www.fifaratings.com/john-stones
+**** Kalvin Phillips
+Kalvin Phillips
+Manchester City
+5'10"
+159lbs
+#4 
+CDM
+Center Defensive Midfielder
+England
+81
+84
+2096
+https://www.fifaratings.com/kalvin-phillips
+**** Manuel Akanji
+Manuel Akanji
+Manchester City
+6'2"
+201lbs
+#25 
+CB
+Centre Back
+Switzerland
+81
+82
+1963
+https://www.fifaratings.com/manuel-akanji
+**** Stefan Ortega
+Stefan Ortega
+Manchester City
+6'1"
+194lbs
+#18 
+GK
+Goalkeeper
+Germany
+80
+80
+1400
+https://www.fifaratings.com/stefan-ortega
+**** J. Álvarez
+J. Álvarez
+Manchester City
+5'8"
+157lbs
+#19 
+CAM
+Center Attacking Midfielder
+Argentina
+79
+86
+2124
+https://www.fifaratings.com/julian-alvarez
+**** Nathan Aké
+Nathan Aké
+Manchester City
+5'11"
+165lbs
+#6 
+CB
+Centre Back
+Netherlands
+79
+81
+1994
+https://www.fifaratings.com/nathan-ake
+**** Sergio Gómez
+Sergio Gómez
+Manchester City
+5'7"
+150lbs
+#21 
+CAM
+Center Attacking Midfielder
+Spain
+74
+83
+2061
+https://www.fifaratings.com/sergio-gomez-martin
+**** Cole Palmer
+Cole Palmer
+Manchester City
+6'2"
+163lbs
+#80 
+CAM
+Center Attacking Midfielder
+England
+66
+83
+1734
+https://www.fifaratings.com/cole-palmer
+**** Morgan Rogers
+Morgan Rogers
+Manchester City
+6'2"
+176lbs
+#38 
+RM
+Right Midfielder
+England
+66
+79
+1658
+https://www.fifaratings.com/morgan-rogers
+**** Scott Carson
+Scott Carson
+Manchester City
+6'3"
+190lbs
+#33 
+GK
+Goalkeeper
+England
+65
+65
+1109
+https://www.fifaratings.com/scott-carson
+**** Rico Lewis
+Rico Lewis
+Manchester City
+5'9"
+154lbs
+#82 
+RB
+Right Back
+England
+61
+82
+1492
+https://www.fifaratings.com/rico-lewis
+**** Ben Knight
+Ben Knight
+Manchester City
+5'7"
+130lbs
+#96 
+CAM
+Center Attacking Midfielder
+England
+60
+74
+1496
+https://www.fifaratings.com/ben-knight
+**** Alex Robertson
+Alex Robertson
+Manchester City
+5'11"
+146lbs
+#93 
+CAM
+Center Attacking Midfielder
+England
+58
+78
+1593
+https://www.fifaratings.com/alex-robertson
+**** J. Wilson-Esbrand
+J. Wilson-Esbrand
+Manchester City
+5'9"
+143lbs
+#97 
+LB
+Left Back
+England
+58
+76
+1478
+https://www.fifaratings.com/joshua-wilson-esbrand
+**** Karim Benzema
+Karim Benzema
+Real Madrid CF
+6'1"
+179lbs
+#9 
+CF
+Center Forward
+France
+91
+91
+2147
+https://www.fifaratings.com/karim-benzema
+**** T. Courtois
+T. Courtois
+Real Madrid CF
+6'6"
+212lbs
+#1 
+GK
+Goalkeeper
+Belgium
+90
+91
+1334
+https://www.fifaratings.com/thibaut-courtois
+**** Toni Kroos
+Toni Kroos
+Real Madrid CF
+6'0"
+168lbs
+#8 
+CM
+Center Midfielder
+Germany
+88
+88
+2147
+https://www.fifaratings.com/toni-kroos
+**** Luka Modrić
+Luka Modrić
+Real Madrid CF
+5'8"
+146lbs
+#10 
+CM
+Center Midfielder
+Croatia
+88
+88
+2258
+https://www.fifaratings.com/luka-modric
+**** A. Rüdiger
+A. Rüdiger
+Real Madrid CF
+6'3"
+187lbs
+#22 
+CB
+Centre Back
+Germany
+87
+88
+2011
+https://www.fifaratings.com/antonio-rudiger
+**** Vinícius Jr.
+Vinícius Jr.
+Real Madrid CF
+5'9"
+161lbs
+#20 
+LW
+Left Winger
+Brazil
+86
+92
+1985
+https://www.fifaratings.com/vinicius-jose-de-oliveira-junior
+**** David Alaba
+David Alaba
+Real Madrid CF
+5'11"
+172lbs
+#4 
+CB
+Centre Back
+Austria
+86
+86
+2277
+https://www.fifaratings.com/david-alaba
+**** F. Valverde
+F. Valverde
+Real Madrid CF
+6'0"
+172lbs
+#15 
+CM
+Center Midfielder
+Uruguay
+85
+90
+2239
+https://www.fifaratings.com/federico-valverde
+**** Éder Militão
+Éder Militão
+Real Madrid CF
+6'1"
+172lbs
+#3 
+CB
+Centre Back
+Brazil
+84
+89
+2043
+https://www.fifaratings.com/eder-gabriel-militao
+**** Eden Hazard
+Eden Hazard
+Real Madrid CF
+5'9"
+163lbs
+#7 
+LW
+Left Winger
+Belgium
+84
+84
+2042
+https://www.fifaratings.com/eden-hazard
+**** Carvajal
+Carvajal
+Real Madrid CF
+5'8"
+161lbs
+#2 
+RB
+Right Back
+Spain
+84
+84
+2105
+https://www.fifaratings.com/daniel-carvajal-ramos
+**** A. Tchouaméni
+A. Tchouaméni
+Real Madrid CF
+6'2"
+179lbs
+#18 
+CDM
+Center Defensive Midfielder
+France
+83
+89
+2145
+https://www.fifaratings.com/aurelien-tchouameni
+**** Marco Asensio
+Marco Asensio
+Real Madrid CF
+6'0"
+168lbs
+#11 
+RW
+Right Winger
+Spain
+83
+84
+2036
+https://www.fifaratings.com/marco-asensio-willemsen
+**** Ferland Mendy
+Ferland Mendy
+Real Madrid CF
+5'11"
+161lbs
+#23 
+LB
+Left Back
+France
+83
+84
+2158
+https://www.fifaratings.com/ferland-mendy
+
+
+
+82 Attacking Average
+89 Skill Average
+79 Movement Average
+82 Power Average
+83 Mentality Average
+62 Defending Average
+11 Goalkeeping Average
+483 Base Stats
+2,298 Total Stats
+
+['82', 'Attacking Average']
+['410', 'Attacking Total']
+['89', 'Skill Average']
+['443', 'Skill Total']
+['79', 'Movement Average']
+['394', 'Movement Total']
+['82', 'Power Average']
+['408', 'Power Total']
+['83', 'Mentality Average']
+['495', 'Mentality Total']
+['62', 'Defending Average']
+['186', 'Defending Total']
+['11', 'Goalkeeping Average']
+['56', 'Goalkeeping Total']
+['483', 'Base Stats']
+['2,298', 'Total Stats']
+New Plans for the scraper
+I am done scraping the data I need for the shallow stats. 
+Now for what I need, I need to scrape the data for the detailed stats with all the specific attributes.
+To do this, I need to read the playerShallowStats csv file and then, individually pass each link through 
+the Beautiful Soup class so that I can then scrape the attributes one by one. I need to include some delays after 
+scraping the links of all the players in one team.
+
+
+Kelvin De Bryne stats.
+94 Crossing
+85 Finishing
+55 Heading Accuracy
+93 Short Passing
+83 Volleys
+88 Dribbling
+89 Curve
+83 FK Accuracy
+93 Long Passing
+90 Ball Control
+76 Acceleration
+73 Sprint Speed
+76 Agility
+91 Reactions
+78 Balance
+92 Shot Power
+63 Jumping
+88 Stamina
+74 Strength
+91 Long Shots
+75 Aggression
+66 Interceptions
+88 Positioning
+94 Vision
+83 Penalties
+89 Composure
+68 Marking
+65 Standing Tackle
+53 Sliding Tackle
+15 GK Diving
+13 GK Handling
+5 GK Kicking
+10 GK Positioning
+13 GK Reflexes
+
+
+['94', '85', '55', '93', '83', '88', '89', '83', '93', '90', '76', '73', '76', '91', '78', '92', '63', '88', '74', '91', '75', '66', '88', '94', '83', '89', '68', '65', '53', '15', '13', '5', '10', '13']
+['Crossing', 'Finishing', 'Heading Accuracy', 'Short Passing', 'Volleys', 'Dribbling', 'Curve', 'FK Accuracy', 'Long Passing', 'Ball Control', 'Acceleration', 'Sprint Speed', 'Agility', 'Reactions', 'Balance', 'Shot Power', 'Jumping', 'Stamina', 'Strength', 'Long Shots', 'Aggression', 'Interceptions', 'Positioning', 'Vision', 'Penalties', 'Composure', 'Marking', 'Standing Tackle', 'Sliding Tackle', 'GK Diving', 'GK Handling', 'GK Kicking', 'GK Positioning', 'GK Reflexes']
+
+

@@ -1,0 +1,14 @@
+for the new plans , I want to generate a custom team. 
+You have the chance to feed the function with the values you want for 
+each attributes for each player in a specific position. so you can create your own custom random team
+
+A game for two players. 
+generate random players for one player
+generate random playes for another player 
+The player whose random team has the highest overall wins. 
+This can be something sort of like a luck tester.
+
+player who has the most players with the highest overall wins the game. 
+criteria for winning. 
+1. player who has players with the highest overall 
+2. player whose total overall is the highest

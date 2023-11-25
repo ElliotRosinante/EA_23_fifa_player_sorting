@@ -1,0 +1,136 @@
+1. find teams with the fastest players overall
+2. find teams with the best ball controllers
+3. find teams with the best shooters
+4. find teams with the best finishers 
+5. find teams with the best dribblers
+6. find teams with the best headers
+7. find teams with the best dribblers
+8. find teams which have players with exceptional overralls
+9. find teams which have players with exceptional potential
+10. find teams which have players with the best combined overall
+11. find teams which have players with the best combined potential etc. 
+
+You can combine some specific abilities or properties. 
+Say you want to get the players who have the best (highest point ) combination of ball control, 
++ pace + physical strength
+
+** or many other combinations **
+speed + dribbling + physical 
+speed + dribbling + strength
+pace + dribbling + finishing
+passing + shooting + agility. 
+
+
+1. To be able to sort teams by overall, attack , midfield, defense, league names etc
+2. To be able to sort teams by which teams have the most players(excluding goalkeepers) with the highest points or ratings
+of a specific attribute. eg.dribbling, ball control, finishing, passing. 
+
+some teams have subs and bench players with really bad starts. I don't want the attributes 
+of poor subs and bench players and goal keepers to affect the sorting and the rating.
+
+I might use the top 11 players excluding the goalkeepers.
+
+I will have another version using the top 11 players + those on sub. 
+
+I will also have another version using the top 11 players + those on sub + those on bench
+
+I will also have another sorting / rating of only goalies so they can also have their shine. 
+
+
+3. To be able to sort players by their exceptional attributes. 
+For example we can find the top 10 players with the best heading ability
+or the top 10 players with the highest finishing. 
+Or we can even sort every single player using these specific attributes. 
+
+
+cool questions that can be answered with the kind of data I now have.
+
+*what if I tell you to the name the top 4 players who have really cool goalkeeping attributes and assuming 
+a team has an injured goalkeeper and the main keeper gets a red card, which players can play the role of the 
+goalkeeper really well. 
+
+* what if I tell you to name the top 5 tallest players in the game . 
+
+* or the top 10 heaviest players in the game .
+
+*Haha, we can even compare the goalkeeping stats of players such as messi and ronaldo just for fun purposes.
+
+* what if I ask you to name the top 10 players with the best jumping ability. The only name that might most possibly 
+come into your mind may be Christiano Ronaldo :).
+
+* you can even find what killer attributes a player is specifically significantly good at. As in what 
+attributes are maybe say above 80 or above 90 or something.
+
+5th march update
+Some few things I want to do.
+
+1. players who have all the attributes specified in a list over 90
+
+2.I have to find teams who have 3 or more players with all of certain attributes I will specify in a list over 90
+print the players and their attributes.
+eg . ["finishing","sprint Speed","acceleration",strength > 80"]
+
+all the attributes over 90
+["agility","balance", "ball control","dribbling]
+
+["sprint speed" , "acceleration","dribbling" ,"finishing"]
+
+["agility","balance"]
+["dribbling","ball control"]
+["finishing","acceleration"]
+["finishing","sprint speed"]
+["finishing","sprint speed","acceleration"]
+["finishing","sprint speed", "acceleration"]
+["long shots ", "shot power"]
+["finishing","sprint speed", "acceleration","long Shots","shot power"]
+
+["dribbling","ball control", "agility", "balance", "finishing"]
+["dribbling","ball control","agility", "balance" , "strength"]
+["shot power","finishing","long Shots"]
+["finishing","long shots", "shot power", "penalites"]
+["finishing","long shots","shot power", "Penalties","Sprint Speed", "acceleration"]
+rank all teams in the game by defense , attack, midfield 
+
+
+I need to add a function to create a random team from all over the game of 11 players based on certain attributes you desire. 
+They all have to play specific positions. 
+
+It will be more of a squad builder. 
+
+You specify attributes and value for each for maybe your striker
+attributes and value for each  for your right winger 
+attributes and value for each for your left winger 
+attributes and value for each  for your CAM 
+attributes and value for each for your CDM 
+attributes and value for each for your left wing back
+attributes and value for each for your right wing back 
+attributes and value for your Center backs 
+attributes and value for your Goalkeeper
+
+
+3. 2.I have to find countries who have 3 or more players with all of certain attributes I will specify in a list over 90
+print the players and their attributes.
+The thing is that some players may have a nationality for a certain country but then they may not be 
+in the starting or even substitute players or even the bench players. 
+The question is how do I know if a player is in his or her country's football squad (or that years squad)
+And bear in mind, players from one country are really really really many. 
+They are a lot.
+The main reason why I am doing this project is to get better at playing the game and to locate good players
+whom I may not have known of since I haven't used each and every team in the game.
+The only teams I normally tend to use are Liverpool, real madrid, city , psg, chelsea etc. 
+I hardly use other teams . but with the help of this project I have been able to locate some insanely special players 
+who I have never even heard of. 
+
+
+The whole game is about defending and attacking. 
+for defending, the attributes I need are pace(acceleration and sprint speed), standing tackle , sliding tackle,
+marking, strength, aggression.  Headers  and passing are part though but for me these are the specific stats I need
+
+for attacking, I need people who can score, dribble(keep possession of the ball without losing it) , 
+and people who can pass. 
+
+To build my squad, I need 2 exceptionally fast , fairly strong players with good finishing. 
+I need the midfielders and wingers to be good at dribbling and passing. 
+I need the defenders to have the attributes that I specified earlier. 
+In fact, I need all my players to be good at passing. 
+I want my front 3 to have excellent finishing.

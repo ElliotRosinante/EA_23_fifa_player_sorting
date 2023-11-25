@@ -1,0 +1,40 @@
+One thing I figured out about scraping is that, html pages changes rather quickly. 
+And sometimes the structure for one page isn't always the same for other pages. 
+Sometimes web devs also kinda make mistakes too, they provide data in a different order. they do this in an order 
+different from the normal or conventional order than in earlier examples or earlier pages of similar structure. 
+
+
+Unique Player's name : Remko Pasveer.
+Team : Ajax
+for example, I was tryinig to scrape the data for this player 
+A goalkeeper, I think he is a bench goalkeeper in Ajax.
+Under normal cirumstance the structure of the data in normal cirumstances should be 
+
+Nationality 
+Team
+Kit Number
+League
+Height
+weight
+etc 
+
+But for this player, it seems for some reason one attribute in the list wasn't provided. 
+That was his nationality. 
+And since I wrote my code in such a way that it uses the index of the list to destructure the data into varibles,
+The code broke. 
+For his case, I will write a special scraper to scrape all his data in a manner which won't affect all the other data 
+in my csv file. 
+
+
+for nationality it printed Ajax which is suppossed to be the value for team. 
+the len of the array was 1 less than the usual length
+And for his kit number, there was no value it was empty. 
+For these fields, I will assign, nationality, not provided and kitnumber, not provided. case closed. I will get back to his.
+Note: He is supposed to be on line 1135 of my main csv file
+He comes right after Mohammed Kudus in the scraping process.
+
+I will write a unique scraper for him. 
+
+Another thing I will do is that, I will check the length of the list gotten from player_details, if it isn't 
+the same as the expected, I will like to figure out what value is missing and then I will fill those spaces with 
+not provided so that I do not affect the values in my other csv files.

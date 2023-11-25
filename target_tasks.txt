@@ -1,0 +1,167 @@
+Honestly considering my playstyle, most of the attributes I need are the following. 
+
+for a defender : 
+ I need "Strength"
+ I need "Aggression"
+ I need some decent "Sprint Speed" or "Acceleration"
+ I need decent "Passing" most preferrably "Short passing"
+ I also need exceptional "Marking"
+
+ for an attacker : 
+ I need "dribblers and ball controllers "
+ I need "Short passing " 
+ I also low key need "Long passing" to get my long through balls accross.
+
+ for the main attackers, I need the following attributes :
+ pace 
+ finishing + shot power +  long shots
+ dribbling 
+ short passing. 
+
+
+
+ The whole game means a lot when you are able to dribble and keep possession of the ball and pass to the right person at the right 
+ time. 
+ Being able to defend is also very very very very key so as to not concede goals 
+ Being able to score goals is the main aim. 
+
+ For all my front three, I want people who are exceptional at shooting and scoring from long range. 
+
+So honestly for all the functions I have written to find players who are exceptional at specific attributes, 
+I will just use them to get players who are excellent at the specific attributes I indicated at the top. 
+
+One thing left for me is the sorting by multiple values. I have to work on that seriously. 
+I have to sort the attributes by multiple fields. The functioin that idntifies playes with different attributes over different cutoff 
+values and the functions that find the teams with the highest averages of let's say fast players or players excellent at dribbling. 
+I have to augment it so that I can find players with highest averages of both dribbling and pace. 
+
+I need to add the ability to sort by multiple fields. 
+I also need to be able to add the ability to create your squad of 11 playes satisfying the attributes you provide. 
+So you can combine multiple different players throughout the game with specific attributes you need for each position. 
+So let's say you are playing the game and you are confused about which players to purchase for your FUT, you can just build 
+a squad and you can find equally good players but with lesser price. You will be able to get players who have a  specific attribute you 
+badly want. 
+
+summary of tasks left to do. 
+1. sorting by multiple fields (averages and attributes over a certain value)
+2. random squad builder of 11 players including a goal keeper but all the other players are off different positions. 
+3. target squad builder where you specify the different attributes over a targetted value  for different positions.
+
+
+get players in every position and sort them by their overralls. 
+for example which CAMs have the highest overralls
+Which strikers have the highest overralls. 
+Whih defenders have the highest overralls. 
+
+I can even sort them by potential as well. 
+
+I want to find a way of finding player clones of certain players who have similar or equal attributes in more than 
+3 areas. 
+For the squad builder, I have an idea. 
+I can split the players into their various positions. 
+I will put all left wingers in one list, all right wingers in one list, all center backs in one list, all left wing backs in one list, 
+all right wing backs in another list, all Center Defensive midfielders in one list, all center attacking midfielders in another list, 
+all Strikers in another list , and all Center midfielders in one list, all goal keepers in one list. 
+
+Or I can do them a dictionary but let's see what will happen if I decide to finalize it. 
+
+Then after that what I do is that I feed these list into my function tha finces players with specified attributes 
+over specified values. Then I place all these in a separate list and I use zip or any method to combine 
+one one one one one one from each list to create a team of 11 players with the unique attributes the  " coach " - you 
+wants. 
+
+5th May project continued 
+I want to be able to find the player with the highest rated attribute in 
+a. the whole of a certain country. 
+b. the league the player plays in 
+c. the team the player plays in. 
+
+for example, let's say I want the player who is the best dribbler in the whole of Ghana. 
+or the player who is the best finisher in the whole of netherlands. 
+or the player with the best standing tackle in  Liverpool. 
+or the fastest player in Premier league. 
+
+friday may 5.
+I want to merge the two csv files.
+But some of the headers or keys are the same and I don't want any conflicting issues 
+so what I want to do is that I want to add the overall and potential attributes and values to 
+the detailed player attributes and values.  
+I am sure there is a better way to do this. I will later ask chatGPT for help, I don't want to be a lazy thinker. 
+What I can do is this, I will read the values from one csv(playerShallowStats) and unpack them into the read values from another csv
+(playerDetailedStats) so that I can see all the more important attributes in just one csv file 
+so that there won't be any need to read two separate csv files anytime I am trying to build some new function. 
+
+One of the main reasons why I am doing this is that let's say I want to get the best dribbler with the highest potential
+or the fastest player with the best overall etc 
+Honestly there are only three attributes/values I need from the playerShallowStats.csv which I need to add to the playerDetailedStats.csv
+They are Overall, Potential , and stats.
+
+Another thing I want to do is to calculate the main six attributes which are 
+shooting, passing, pace, physical, dribbling, defending 
+They won't be 100 % accurate as the actual EA one but then they will be very close. 
+Like 98% accurate most of the time.  I actually tried calculating them manually and compared them to the actual real stats
+
+These are the coefficients used to calculate the  6 main attributes in the game 
+PACE 
+acceleration - 45
+sprint speed - 55
+
+DEFENDING 
+Interceptions - 20
+Heading Accuracy - 10
+Defensive Awareness (Marking) - 30 
+Standing tackle - 30 
+Sliding tackle - 10 
+
+PHYSICAL 
+Jumping - 05 
+Stamina - 25
+Strength - 50 
+Aggression - 20
+
+DRIBBLING   
+Dribbling - 50 
+Ball Control - 35
+Agility - 10 
+Balance - 5
+
+PASSING 
+vision - 20 
+Crossing - 20 
+FK Accuracy - 5
+Short Pass - 35
+Long Pass - 15
+curve - 5 
+
+Shooting 
+Attacking Positioning - 05
+finishing - 45
+shot power - 20
+Long shots - 20 
+Volleys - 5
+Penalties - 5
+
+
+other tasks 
+*you enter the name or names of the player you want and you get his attributes (each and every one of them.)
+* you enter the n ame or names of the player you want and the attribute you want and then it prints it out 
+* you enter two players and try to find an attribute you specify belonging to both of them(the player with 
+the higher value for that attribute out of the two gets some sort of indication) 
+* you enter two players and try to find all the comparison of their attributes.
+
+new tasks- update august 27th
+
+what do I want to do. 
+
+does a team have one or more players that are wingers that have pace over 90 
+does a team have one or more players that are wingers that have pace over 90  and dribbling also over 90
+does a team have one or more players that are defenders that have pace over 90 
+does a team have one or more players that are defenders that have dribbling over 90
+which teams have the fastest attacking midfielders 
+who is the fastest atttacking midfielder and which team is he from 
+who is the fastest defensive midfielder and which team is he also from 
+
+New cool ideas that I have gotten. 
+I am going to combine all the attributes so that I can do more impressive things. 
+I can add the overall, stats,total, teams rating for attack, overrall,midfield,and defense so that I can do even more 
+cool things like searching for teams with players over 89 that have 89 pace that have overall less than 70
